@@ -1,0 +1,3187 @@
+<!DOCTYPE html>
+
+<html lang="SR" xml:lang="SR">
+<head>
+<meta content="#f1a41a" name="theme-color"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="BlqQz4Lk4Lu0a3xuQEBI9g6jB5o" name="alexaVerifyID"/>
+<meta content="XbjKTsYX1zZMZX2_svnyAWZPyPUmOzGXvsvuC8nVMRY" name="google-site-verification"/>
+<meta content="B8E42BD1259CEBE20F6BFBF9CE088D88" name="msvalidate.01">
+<meta content="1bac3746fef72d15" name="yandex-verification">
+<meta content="app-id=878545555" name="apple-itunes-app"/>
+<link href="/manifest.json?v6" rel="manifest"/>
+<meta content="yes" name="mobile-web-app-capable"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="Polovniautomobili" name="application-name"/>
+<meta content="Polovniautomobili" name="apple-mobile-web-app-title"/>
+<meta content="#57B3DF" name="msapplication-navbutton-color"/>
+<meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"/>
+<meta content="/" name="msapplication-starturl"/>
+<link href="/images/homeicons/icon-192x192-light.png" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/images/homeicons/icon-192x192-light.png" rel="apple-touch-icon" sizes="192x192" type="image/png"/>
+<link href="/images/homeicons/launch-640x1136.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" rel="apple-touch-startup-image"/>
+<link href="/images/homeicons/launch-750x1294.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" rel="apple-touch-startup-image"/>
+<link href="/images/homeicons/launch-1242x2148.png" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" rel="apple-touch-startup-image"/>
+<link href="/images/homeicons/launch-1125x2436.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" rel="apple-touch-startup-image"/>
+<link href="/images/homeicons/launch-1536x2048.png" media="(min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)" rel="apple-touch-startup-image"/>
+<link href="/images/homeicons/launch-1668x2224.png" media="(min-device-width: 834px) and (max-device-width: 834px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)" rel="apple-touch-startup-image"/>
+<link href="/images/homeicons/launch-2048x2732.png" media="(min-device-width: 1024px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)" rel="apple-touch-startup-image"/>
+<title>			Audi A4 2.0 TDI S Line  | Polovni Automobili
+	</title>
+<meta content="Audi A4 2.0 TDI S Line, 2008. godište, Limuzina, Dizel 1968 cm3, vozilo prešlo 216000 km, Biskuplje. Putnička vozila - Polovni Automobili" name="description"/>
+<meta content="Audi A4 2.0 TDI S Line, Audi, A4, Putnička vozila, 2008, Limuzina, Dizel, 1968 cm3, 216000 km, Biskuplje, polovni automobili, oglasi vozila" name="keywords"/>
+<meta content="index,follow" name="robots"/>
+<meta content="127593208027" property="fb:app_id">
+<meta content="website" property="og:type"/>
+<meta content="www.polovniautomobili.com" property="og:site_name"/>
+<meta content="			Audi A4 2.0 TDI S Line  | Polovni Automobili
+	" property="og:title"/>
+<meta content="Audi A4 2.0 TDI S Line, 2008. godište, Limuzina, Dizel 1968 cm3, vozilo prešlo 216000 km, Biskuplje. Putnička vozila - Polovni Automobili" property="og:description"/>
+<link href="https://www.polovniautomobili.com/auto-oglasi/22313727/audi-a4?attp=p8_pv0_pc1_pl9_plv0" hreflang="sr" rel="alternate" title="Srpski">
+<meta content="https://www.polovniautomobili.com/auto-oglasi/22313727/audi-a4" property="og:url"/>
+<meta content="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/9beb41578be7-1920x1080.jpg" property="og:image"/>
+<meta content="photo" name="twitter:card"/>
+<meta content="@PolovnaVozila" name="twitter:site"/>
+<meta content="Audi A4 2.0 TDI S Line" name="twitter:title"/>
+<meta content="www.polovniautomobili.com" name="twitter:domain"/>
+<meta content="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/9beb41578be7-1920x1080.jpg" name="twitter:image"/>
+<meta content="PolovniAutomobili" name="twitter:app:name:googleplay">
+<meta content="com.infostud.android.pa" name="twitter:app:id:googleplay">
+<meta content="no-referrer-when-downgrade" name="referrer"/>
+<link href="https://www.polovniautomobili.com/auto-oglasi/22313727/audi-a4-20-tdi-s-line" rel="canonical"/>
+<!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-54RNPCL');</script><!-- End Google Tag Manager -->
+<link href="https://fonts.gstatic.com" rel="preconnect"/>
+<link as="script" crossorigin="crossorigin" href="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" rel="preconnect"/>
+<link as="script" crossorigin="crossorigin" href="//www.googletagservices.com/tag/js/gpt.js" rel="preconnect"/>
+<link as="font" crossorigin="" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.0/fonts/fontawesome-webfont.woff" rel="preconnect" type="font/woff"/>
+<link as="font" crossorigin="" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.0/fonts/fontawesome-webfont.woff2" rel="preconnect" type="font/woff2"/>
+<link as="font" crossorigin="" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.0/fonts/fontawesome-webfont.ttf" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,900&amp;display=swap&amp;subset=latin-ext" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:wght@300;400;700;900&amp;display=swap" rel="stylesheet"/>
+<link href="/build/main_layout.18fb3202.css?r12635" rel="stylesheet"/>
+<link href="/build/classified_details.b4b9e486.css?r12635" rel="stylesheet"/>
+<link href="/build/raiffeisen_widget.a94e4c0c.css?r12635" rel="stylesheet"/>
+<style>
+									body.lg-on {
+				overflow-y: hidden;
+			}
+			/*.sajamskaPonuda {*/
+			/*	!* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#093d8e+0,093d8e+24,093d8e+48,093d8e+48,7db9e8+100 *!*/
+			/*	background: #093d8e; !* Old browsers *!*/
+			/*	background: -moz-linear-gradient(left, #414141 0%, #1c1c1c 7%, #2d2a2a 27%, #575757 100%); !* FF3.6-15 *!*/
+			/*	background: -webkit-linear-gradient(left, #414141 0%, #1c1c1c 7%, #2d2a2a 27%, #575757 100%); !* Chrome10-25,Safari5.1-6 *!*/
+			/*	background: linear-gradient(to right, #414141 0%, #1c1c1c 7%, #2d2a2a 27%, #575757 100%); !* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ *!*/
+			/*	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#093d8e', endColorstr='#7db9e8', GradientType=1); !* IE6-9 *!*/
+			/*	color: #ffffff;*/
+			/*	display: block;*/
+			/*	text-align: center;*/
+			/*	position: relative;*/
+			/*	padding: 10px 20px;*/
+			/*	font-size: 1.1em;*/
+			/*	text-shadow: 1px 1px 1px #093d8e;*/
+			/*	margin: 0px 0px 5px 0px;*/
+			/*	border-radius: 5px;*/
+			/*}*/
+		</style>
+<style>
+		.uk-modal {
+			display: none;
+		}
+	</style>
+<link href="https://ajax.googleapis.com" rel="dns-prefetch">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+			window.googletag = window.googletag || {cmd: []};
+			googletag.cmd.push(function() {
+									googletag.defineSlot('/2299062/PA_DESKTOP_OGLAS_Scroll_300x600', [[300, 600], [300, 250]], 'PA_DESKTOP_OGLAS_Scroll_300x600').addService(googletag.pubads());googletag.defineSlot('/2299062/PA_DESKTOP_300x600', [[300, 250], [300, 600]], 'PA_DESKTOP_300x600').addService(googletag.pubads());googletag.defineSlot('/2299062/PA_DESKTOP_970x250', [970, 250], 'PA_DESKTOP_970x250').addService(googletag.pubads());																googletag.pubads().setTargeting("page","details");
+				googletag.pubads().setTargeting("category","car");
+				googletag.pubads().setTargeting("brands",["Audi"]);
+				googletag.pubads().setTargeting("models","A4");
+				googletag.pubads().setTargeting("condition","old");
+									googletag.pubads().enableSingleRequest();
+
+					googletag.pubads().collapseEmptyDivs();
+									googletag.pubads().disableInitialLoad();
+								googletag.enableServices();
+			});
+		</script>
+<script async="" src="https://stpd.cloud/assets/hb/polovniautomobilicom.js" type="text/javascript"></script>
+<!-- Page-hiding snippet for Google Optimize -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+				h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+				(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+			})(window,document.documentElement,'async-hide','dataLayer',4000,
+				{'GTM-P94TJ7Z':true});
+		</script>
+<!-- End of page-hiding snippet for Google Optimize -->
+<script type="application/javascript">
+			(function(i,s,o,g,r,a,m)
+			{
+				i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
+					{
+						(i[r].q=i[r].q||[]).push(arguments)
+					},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-220728-1', 'auto');
+			ga('require', 'GTM-P94TJ7Z');
+			ga('send', 'pageview');
+		</script>
+</link></meta></meta></link></meta></meta></meta></head>
+<body>
+<script type="text/javascript">
+			window.adocf = {};
+			window.adocf.useDOMContentLoaded = true;
+		</script>
+<script src="//si.adocean.pl/files/js/ado.js" type="text/javascript"></script>
+<script type="text/javascript">
+                /* (c)AdOcean 2003-2017 */
+                if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};}
+                ado.config({mode: "new", xml: false, characterEncoding: true});
+                ado.preview({enabled: true, emiter: "si.adocean.pl", id: "Mr1Rsue7H.rad6w_4ZHJvEJGwBl.iSL6B.8jEytU5tj.c7"});
+            </script>
+<script type="text/javascript">
+			/* (c)AdOcean 2003-2017, MASTER */
+										
+			ado.master({
+				id: 'y4gxqTdrXD20f5bzcQJzqW5oXljRO.rnydyY5yaguP7.Q7',
+				server: 'si.adocean.pl',
+				vars: [],
+				keys: ["audi","ispod10","ispod15","ispod20","preko5","Dizel"]
+			});
+		</script>
+<!-- Google Tag Manager (noscript) --><noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-54RNPCL" style="display:none;visibility:hidden" width="0"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
+<!-- Google Tag Manager (noscript) --><noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MS3VZ8Z" style="display:none;visibility:hidden" width="0"></iframe></noscript><!-- End Google Tag Manager (noscript) -->
+<div class="uk-hidden ask-permission-holder" id="ask-permission-holder">
+<div class="uk-container uk-container-center">
+<div class="uk-grid">
+<div class="uk-width-medium-6-10 uk-width-1-1 uk-text-left uk-text-center-small">
+					Budi u toku sa najnovijim obaveštenjima na sajtu
+				</div>
+<div class="uk-width-medium-4-10 uk-width-1-1 uk-text-right uk-text-center-small">
+<button class="js_ga-event js-notification-permission-button yes" data-action="click" data-answer="yes" data-category="Browser notifikacije" data-label="Prihvatam">
+	                    Prihvatam
+	                </button>
+<button class="js_ga-event js-notification-permission-button later" data-action="click" data-answer="later" data-category="Browser notifikacije" data-label="Kasnije">
+	                    Kasnije
+	                </button>
+<button class="js_ga-event js-notification-permission-button no" data-action="click" data-answer="no" data-category="Browser notifikacije" data-label="Ne prihvatam">
+	                    Ne prihvatam
+	                </button>
+</div>
+</div>
+</div>
+</div>
+<script>
+		$(function () {
+			function wallbannersSetHeight() {
+				var height = $('body').height() - $('.header-holder').height() - $('.footer').height();
+				$('.wallbannersLeft').css('height', height);
+				$('.wallbannersRight').css('height', height);
+			}
+			wallbannersSetHeight();
+			$(window).scroll(function() {
+				wallbannersSetHeight(); 
+			});
+
+			var body = document.querySelector('body');
+			var observer = new ResizeObserver(() => {
+				window.scrollTo(window.scrollX, window.scrollY +1);
+			});
+			observer.observe(body);
+
+		})
+	</script>
+<style>
+	.wallbannersLeft, .wallbannersRight {
+		position: absolute;
+		top: 82px;
+		/*width: 1000px;*/
+		overflow: hidden;
+		z-index: 1003;
+	}
+	.wallbannersLeft{
+		left: 50%;
+		margin-left: -1620px;
+		width: 1000px;
+		text-align: right;
+	}
+	.wallbannersRight {
+		left: 50%;
+		margin-left: 620px;
+	}
+	body {
+		overflow-x: hidden;
+	}
+</style>
+<div id="adoceansispilmrqqco"></div>
+<div class="wallbannersLeft">
+<div data-uk-sticky="{boundary: true}">
+<div id="adoceansitdmlntrhqx"></div>
+</div>
+</div>
+<div class="wallbannersRight">
+<div data-uk-sticky="{boundary: true}">
+<div id="adoceansiwcffkwhthy"></div>
+</div>
+</div>
+<script type="text/javascript">
+	ado.slave('adoceansitdmlntrhqx', {myMaster: 'y4gxqTdrXD20f5bzcQJzqW5oXljRO.rnydyY5yaguP7.Q7' });
+	ado.slave('adoceansiwcffkwhthy', {myMaster: 'y4gxqTdrXD20f5bzcQJzqW5oXljRO.rnydyY5yaguP7.Q7' });
+	ado.slave('adoceansispilmrqqco', {myMaster: 'y4gxqTdrXD20f5bzcQJzqW5oXljRO.rnydyY5yaguP7.Q7' });
+	</script>
+<div class="header-holder">
+<div class="uk-container uk-container-center header" id="top_header" style="padding-top: 24px !important; padding-bottom: 12px !important;">
+<script type="application/javascript">
+
+				<!-- Google Tag Manager -->
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-MS3VZ8Z');
+		<!-- End Google Tag Manager -->
+		
+				dataLayer.push({"fair_offer":"false","rubrika":"Putni\u010dka vozila","vrstaStranice":"Oglas","id":"22313727","category":"Putni\u010dka vozila","name":"Audi A4 2.0 TDI S Line","marka":"Audi","model":"A4","godiste":"2008","ownerId":"506772","price":"9500","companyName":"BMW Delovi Aleksandar 012","opis":"1","karoserija":"Limuzina","gorivo":"Dizel","condition":"used","object_active_commercial_promotions":["istaknut na naslovnoj","istaknut oglas"],"object_commercial_promotion_state":"pla\u0107eno","environment_platform":"pa","environment_platform_type":"website","environment_platform_subtype":"desktop website","object_type":"oglas","object_uid":"22313727","object_last_renewed_date":"2023-09-23 19:48:09","object_owner_uid":"506772","object_owner_rating":"0","object_owner_has_logo":"yes","object_city":"Biskuplje","object_area":"Brani\u010devski","object_price":"9500","object_category":"automobili","object_brand":"Audi","object_model":"A4","object_production_year":"2008","object_has_generation_info":"yes","object_condition":"polovno","object_damage":"Nije o\u0161te\u0107en","object_mileage":"216000","object_chassis":"Limuzina","object_door_num":"4\/5 vrata","object_fuel":"Dizel","object_engine_volume":"1968","object_engine_horsepower":"143","object_gear_box":"Automatski \/ poluautomatski","object_air_conditioner":"Automatska klima","object_wheel_side":"Levi volan","object_flywheel":"no","object_taxi":"no","object_old_timer":"no","object_test_vozilo":"no","object_tuning":"no","object_restauriran":"no","object_prilagodjeno_invalidima":"no","object_kupljen_nov_u_srbiji":"no","object_servisna_knjizica":"no","object_prvi_vlasnik":"no","object_garancija":"no","object_origin":"Doma\u0107e tablice","object_registration_remaining_months":"0","object_trade_in":"bez zamene","object_images_count":"26","object_discount_mark_visible":"no","cv_1":"{\"ciphertext\":\"qUEHx2\\\/9ETVrxpbb9DHkOa5HvbLt05bcnzePSmnbwQk=\",\"iv\":\"265e7390ab0e87d56508eacd948b2d22\",\"salt\":\"dd8c04b0dade11a09b14867f9f2201a0138f8b72c6784dacbea3d2a7585816b5cf29719bb981d115931b0de19b12027823d15d71f97c192485281a3a7fc8ccfe24cf519619ceca4ea14ba9e87ba86ec8500651658d3716f13175106e4b49ac510e40077a65fff2a7a83f06ead65cbb4204b554123ac90d677233a7db52a379d20d2129a94ae92dec50d2fa3b31aeee6e75ac4bd1d2e72579d696f97fc48d56460ddffe4ee1ed3cf9e82ca902b9730c643b67dd14a402d6eaf5acad4a6cf3b1bee53d1955b15737cd044113ec1d5fc290595327cd993b7ef2be9e0bc9681202cc7e91db29e88acaa559009f58c3b2d786e66ab55f349d77e19081897bd0309d26\"}","cv_2":"{\"ciphertext\":\"93sM+8AvGIqe152Ym9\\\/2dg==\",\"iv\":\"256be45535389cf559de630e6cb0d3b5\",\"salt\":\"5429cff4615a1ed1875542bdd7c92ccbf411afecf2f5d5bdd65109ac8bffbd823bd2367e1696487617b41e4e0161df02cb5e3d6de72e5ccbeda988fdbeedc7fc5370e7fafe07299343489d2357683dbeb139db1e45e5ac2d7f2406d27e4721ffee06d1c4e6738be0f647ac91cf559bf2950b9f45e82240489716c30f00a962f2500d729dcdfee7d809cf4f410d7692e72e63d657c04aad797e05806cc09aa69191faf4af6b08a79b88c281c5f162af1d606d6892c7d589ec6649b8b3c6767d015d521ec0082a026571907b7b2cc1783ec623cef8976ffe345ea8039a3b68f10034260a00f17ff285b038c6f6eae81204a889230bdb2f9e459eea1e163551326f\"}","cv_3":"{\"ciphertext\":\"y6bbfYXIXYP+jQBqwyZPLQ==\",\"iv\":\"cdb8da1d38dfcf87fce500d42aac278f\",\"salt\":\"10f2c977dc8ea69901e247c3fb1025e1f09ba0c6b4a5c01a2799fad672ebcf2a24eb700e0f93faae6553890086e8b6d636088e984daa231c5725702f72d0d62ace16f7dc9277d06552f7645f8636d25693f1b7cc3f262351e6c1d6e345e8dc573bbf8bfb60af988b22f746c39e9bd4cce525ff85ea208f3746b6a85b7b5f04d622c076d073c02350846a0ed4be90a9423cc1f2707dab39ad2646d433dd81c4b2f350263c29da1c45eff7ca9fc1cad0e4b662b0f0be33e50db3869605b688682d8fdeeea16f7b6978c052c1e2de230bd0a016fd544950caf70a0fde8b226f2c527064d596ea6df940969186aee9286405c292c39a55e9ce2ab825ca2b1d80f9a9\"}","cv_4":"{\"ciphertext\":\"sLv8JjqBXFxlNjf2eGDWAA==\",\"iv\":\"5874ed2380986c5e709c29602e0a1915\",\"salt\":\"5b0e8c8576e01db739d3ac5ed634d4a27e39dd16642ce7f523ae0c46bcd620d7ec014e70a42aeda6685fafb5d2feab8c38f5b36a49db600e1f87072de3798623761be893f8ba4b96311a50e39b1f9cab9067816075f86f4c4467ac0fdf7dae37f9bcf957cfefe871b1ef820122d2da4b95fac79478c5829dd16bbc52f0c0654eef64d1a833f8ef2c52723bfd996872caaa498f42e786de43971899bcb23c269613ad7257c776bbb1fd4d2c34a8803fd5c041ae1c186cc882b909c74b17cd4fcb09780a53ec2eb90e6423587401d13f38fff254fbf224b27f88932065754af149ce24af94598f772b5f7c3a66be59aff9fb45120a22795fcd8572f2df40847dd7\"}","rata_kredita":"no","rata_lizinga":"no","object_credit_calculator_showed":"yes"});
+		
+		$(function() {
+							if (typeof localStorage !== 'undefined')
+					{
+					var user = localStorage.getItem('user');
+					if (user)
+						{
+						localStorage.removeItem('user');
+						}
+					}
+			
+						 // Check was made on server and there is no global notification for user's country
+				if (typeof PA.globalNotification !== "undefined" && typeof PA.globalNotification.missing === "function")
+					{
+					PA.globalNotification.missing();
+					}
+					});
+
+	</script>
+<style type="text/css">
+		/*	This should target only landscape tablets*/
+			</style>
+<div class="uk-offcanvas" id="side-navigation-bar">
+<div class="uk-offcanvas-bar uk-offcanvas-bar-flip">
+<ul class="uk-nav uk-nav-offcanvas uk-nav-parent-icon" data-uk-nav="">
+<li>
+<span class="profile-menu uk-grid uk-margin-remove">
+<a class="paOrangeButtonPrimary uk-width-1-1 uk-margin-bottom button-box-shadow-remove" href="/login" title="Uloguj se">Uloguj se <i class="uk-icon-user"></i></a><br/>
+<a class="uk-button button-facebook uk-width-1-1 button-box-shadow-remove" href="/connect/facebook">Prijavi se putem Facebook-a <i class="uk-icon-facebook-official"></i></a>
+<div class="uk-width-1-1 uk-margin-remove uk-padding-remove" style="margin-top: 5px !important; margin-bottom: 5px !important;">
+<div class="uk-grid uk-margin-remove uk-padding-remove">
+<div class="uk-width-4-10 uk-margin-remove uk-padding-remove"><hr style="margin: 10px 0px; border-top: 1px solid rgba(125, 125, 125, 0.51);"/></div>
+<div class="uk-width-2-10 uk-margin-remove uk-padding-remove uk-text-center">ili</div>
+<div class="uk-width-4-10 uk-margin-remove uk-padding-remove"><hr style="margin: 10px 0px; border-top: 1px solid rgba(125, 125, 125, 0.51);"/></div>
+</div>
+</div>
+<a class="uk-button button-register uk-width-1-1 button-box-shadow-remove" href="/registracija">Registruj se </a>
+</span>
+</li>
+<li>
+<a href="/" onclick="ga('send', 'event', 'Navbar', 'click', 'Kućica');"><i class="uk-icon uk-icon-home" title="Naslovna"></i> Naslovna</a>
+</li>
+<li>
+<a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Klik na postavi oglas" href="/oglas/odabir-kategorije?attp=navigacija_header" onclick="dataLayer.push({'event': 'ad posting header','datapoint_attributing_promotion':'navigacija_header'});"><span class="icon-add-clasified"></span> Postavi oglas</a>
+</li>
+<li>
+<a href="/profil">Moj profil</a>
+</li>
+<li>
+<a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Klik na sačuvane pretrage u side menu" href="/redirect/sacuvane-pretrage">Sačuvane pretrage</a>
+</li>
+<li>
+<a href="/bavite-se-trgovinom" onclick="ga('send', 'event', 'Navbar', 'click', 'Ponuda za trgovce');"> Ponuda za oglašavanje</a>
+</li>
+<li>
+<a href="/promocije-oglasa" onclick="ga('send', 'event', 'Navbar', 'click', 'Usluge i krediti');">Usluge i krediti</a>
+</li>
+<li class="uk-parent">
+<a href="#">Prodajem</a>
+<ul class="uk-nav-sub">
+<li>
+<a href="/oglas/novi?attp=navigacija_prodajem" onclick="dataLayer.push({'event': 'ad posting prodajem','datapoint_attributing_promotion':'navigacija_prodajem'});">Postavi oglas</a>
+</li>
+<li>
+<a href="/prodajete-sopstveno-vozilo" onclick="ga('send', 'event', 'Navbar', 'click', 'Prodaj sopstveno vozilo');">Prodaj sopstveno vozilo</a>
+</li>
+<li>
+<a href="/bavite-se-trgovinom" onclick="ga('send', 'event', 'Navbar', 'click', 'Pretraga auto usluga');">Oglasi celokupnu ponudu</a>
+</li>
+<li>
+<a href="/usluge-promocije-oglasa" onclick="ga('send', 'event', 'Navbar', 'click', 'Najtraženiji modeli');">Ubrzaj prodaju</a>
+</li>
+</ul>
+</li>
+<li class="uk-parent">
+<a href="#">Brza pretraga</a>
+<ul class="uk-nav-sub">
+<li>
+<a href="/auto-oglasi/poslednja24h" onclick="ga('send', 'event', 'Navbar', 'click', 'Novi oglasi u 24h');">Najnoviji oglasi</a>
+</li>
+<li>
+<a href="/auto-prodavci" onclick="ga('send', 'event', 'Navbar', 'click', 'Pretraga autoplaceva i kuća');">Pretraga auto placeva i kuća</a>
+</li>
+<li>
+<a href="/auto-usluge" onclick="ga('send', 'event', 'Navbar', 'click', 'Pretraga auto usluga');">Pretraga auto usluga</a>
+</li>
+<li>
+<a href="/najtrazeniji-modeli/" onclick="ga('send', 'event', 'Navbar', 'click', 'Najtraženiji modeli');">Najtraženiji modeli automobila</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/auto-vesti/" onclick="ga('send', 'event', 'Navbar', 'click', 'Svi saveti vesti i video');">Saveti, vesti i video</a>
+</li>
+<li>
+<a href="http://www.osiguranik.com/" rel="noopener" target="_blank"><i class="uk-icon-external-link"></i> Auto osiguranje</a>
+</li>
+<li class="uk-parent">
+<a href="#">Moja garaža</a>
+<ul class="uk-nav-sub">
+<li><a href="http://www.mojagaraza.rs/automobili?utm_source=polovniautomobili.com&amp;utm_campaign=pa_novi_sajt&amp;utm_medium=navbar_link_automobili" rel="noopener" target="_blank"><i class="uk-icon-external-link"></i> Automobili</a></li>
+<li><a href="http://www.mojagaraza.rs/diskusije?utm_source=polovniautomobili.com&amp;utm_campaign=pa_novi_sajt&amp;utm_medium=navbar_link_diskusije" rel="noopener" target="_blank"><i class="uk-icon-external-link"></i> Diskusije</a></li>
+<li><a href="http://www.mojagaraza.rs/galerije?utm_source=polovniautomobili.com&amp;utm_campaign=pa_novi_sajt&amp;utm_medium=navbar_link_fotke" rel="noopener" target="_blank"><i class="uk-icon-external-link"></i> Fotke</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="uk-grid uk-hidden-medium uk-hidden-small" style="margin-right: -10px; max-height: 45px;">
+<div class="uk-width-medium-3-10 uk-width-1-2 position-relative">
+<a href="/"><img alt="Polovniautomobili.com | Polovni automobili - auto oglasi, prodaja automobila, vozila, auto placevi, kola, motori, kamioni, auto delovi" class="polovniautomobili-logo-desktop" src="/bundles/site/images/polovniautomobili-logo.svg" title="Polovniautomobili.com | Polovni automobili - auto oglasi, prodaja automobila, vozila, auto placevi, kola, motori, kamioni, auto delovi"/></a>
+</div>
+<div class="uk-width-7-10">
+<div class="uk-hidden-medium uk-hidden-small uk-grid">
+<div class="uk-width-1-1 uk-text-right uk-hidden-medium uk-hidden-small">
+<a class="top-menu-social js_ga-event" data-action="click" data-category="Top navbar" data-label="You Tube" href="https://www.youtube.com/user/polovniautomobili" rel="noopener" target="_blank">
+<i class="uk-icon-youtube-play"></i>
+</a><!--
+--><a class="top-menu-social js_ga-event" data-action="click" data-category="Top navbar" data-label="Instagram" href="https://www.instagram.com/polovnjaci" rel="noopener" target="_blank">
+<i class="uk-icon-instagram"></i>
+</a><!--
+--><a class="top-menu-social js_ga-event" data-action="click" data-category="Top navbar" data-label="Twitter" href="https://twitter.com/PolovnaVozila" rel="noopener" target="_blank">
+<i class="uk-icon-twitter"></i>
+</a><!--
+--><a class="top-menu-social js_ga-event" data-action="click" data-category="Top navbar" data-label="Facebook" href="https://www.facebook.com/polovniautomobili" rel="noopener" target="_blank">
+<i class="uk-icon-facebook-official"></i>
+</a><!--
+--><a class="top-menu-social js_ga-event" data-action="click" data-category="Top navbar" data-label="Linkedin" href="https://www.linkedin.com/company/polovni-automobili" rel="noopener" target="_blank">
+<i class="uk-icon uk-icon-linkedin uk-icon-small"></i>
+</a><!--
+--><div class="uk-button-dropdown inline-block top-dropdown" data-uk-dropdown="{delay: 200}" style="margin: -5px -4px -8px 15px;">
+<div class="top-menu-profile position-relative">
+<div class="uk-float-left fb-image-holder">
+<span id="fb-image-top-bar"></span>
+</div>
+<a class="uk-float-left js_ga-event" data-action="click" data-category="Navbar" data-label="MP - Prijavi se" href="/login" style="color: inherit;">
+				PRIJAVI SE <i class="position-absolute uk-icon-caret-down"></i><br/><span>Moj profil</span>
+</a>
+</div>
+<div class="uk-dropdown uk-text-left">
+<ul class="uk-nav uk-nav-dropdown my_profile_dropdown">
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="MP - Aktivni oglasi" href="/redirect/aktivni-oglasi">Aktivni oglasi</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="MP - Neaktivni oglasi" href="/redirect/neaktivni-oglasi">Neaktivni oglasi</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="MP - Poruke" href="/redirect/threads">Poruke</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="MP - Potencijalni kupci" href="/redirect/potentialBuyers">Potencijalni kupci</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="MP - Oglasi koje pratim" href="/redirect/oglasi-koje-pratim">Oglasi koje pratim</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Profil" data-label="Link ka sačuvanim pretragama" href="/redirect/sacuvane-pretrage">Sačuvane pretrage</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="MP - Obaveštenja" href="/redirect/obavestenja">Obaveštenja</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="MP - Podešavanja" href="/redirect/podesavanja">Podešavanja</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="MP - Krediti" href="/redirect/krediti" style="position: relative">Krediti<img src="/bundles/site/images/offer/credits/5-kredita-xsmall.png" style="position: absolute;right: 0;margin-right: 15px;" width="20px"/></a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="MP - Prijavi se (dropdown)" href="/login" title="Prijavi se">Prijavi se</a></li>
+</ul>
+</div>
+</div>
+<a class="top-menu-register js_ga-event" data-action="click" data-category="Navbar" data-label="Registruj se" href="/registracija"> Registruj se </a><a class="top-menu-submit-classified js_ga-event" data-action="click" data-category="Navbar" data-label="Postavi oglas" href="/oglas/novi?attp=navigacija_header">Postavi oglas</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="uk-container uk-container-center border-none uk-notification global-notification-holder" style="display: none;">
+<div class="uk-grid">
+<div class="uk-width-1-1">
+<p class="global-notification-message">Radovi su u toku.</p>
+<i class="uk-icon-close global-notification-close"></i>
+</div>
+</div>
+</div>
+<div class="bannerPlaceholder" style="position: fixed; top: 0px;min-height: 250px;background-color: #e9e9e9 !important;"></div>
+<div style="background-color: #e9e9e9">
+<div class="uk-container uk-container-center border-none">
+<div class="uk-grid" id="top_ad_banner">
+<div class="uk-text-center uk-width-1-1">
+<div class="leaderboard-banner-holder" style="display: block">
+<div id="PA_DESKTOP_970x250" style="min-width: 970px; min-height: 250px;">
+<script>
+        googletag.cmd.push(function() { googletag.display('PA_DESKTOP_970x250'); });
+    </script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="background-color: #e9e9e9">
+<div class="uk-container uk-container-center header">
+<div class="uk-grid uk-margin-top-remove">
+<div class="uk-width-1-1">
+<style>
+	.uk-navbar-nav {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		float: none;
+		text-align: center;
+	}
+	.uk-navbar-nav>li {
+		position: relative;
+		display: inline-block;
+		text-align: left;
+		float: none;
+	}
+
+	@-moz-document url-prefix() {
+		.uk-navbar-nav > li > a {
+		    letter-spacing: -0.5px;
+		}
+	}
+</style>
+<div class="uk-navbar uk-hidden-medium uk-hidden-small desktop-nav">
+<ul class="uk-navbar-nav uk-hidden-small">
+<li class="uk-parent">
+<a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Naslovna" href="/">
+<i class="uk-icon uk-icon-home" style="font-size: 1.5em;" title="Naslovna"></i>
+</a>
+</li>
+<li class="uk-parent" data-uk-dropdown="{delay: 200}">
+<a href="#">BRZA PRETRAGA <i class="uk-icon uk-icon-caret-down"></i></a>
+<div class="uk-dropdown uk-dropdown-navbar quick-search">
+<ul class="uk-nav uk-nav-navbar dropdown-link-color uk-margin-remove">
+<li>
+<a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Brza pretraga - Novi oglasi u 24h" href="/auto-oglasi/poslednja24h">Najnoviji oglasi</a>
+</li>
+<li>
+<a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Brza pretraga - Novi automobili" href="/auto-oglasi/pretraga?without_price=1&amp;showOldNew=new">Novi automobili</a>
+</li>
+<li>
+<a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Brza pretraga - Prvi vlasnik" href="/auto-oglasi/pretraga?without_price=1&amp;showOldNew=all&amp;first_owner=1">Prvi vlasnik</a>
+</li>
+<li>
+<a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Brza pretraga - Kupljen nov u Srbiji" href="/auto-oglasi/pretraga?without_price=1&amp;showOldNew=all&amp;bought_new_in_Serbia_male=1">Kupljen nov u Srbiji</a>
+</li>
+<li>
+<a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Brza pretraga - Automobili na kredit" href="/auto-oglasi/pretraga?without_price=1&amp;showOldNew=all&amp;credit=1">Automobili na kredit</a>
+</li>
+<li>
+<a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Brza pretraga - Automobili sa garancijom" href="/auto-oglasi/pretraga?without_price=1&amp;showOldNew=all&amp;warranty=1">Automobili sa garancijom</a>
+</li>
+<li>
+<a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Brza pretraga - Pretraga autoplaceva i kuća" href="/auto-prodavci">Pretraga autoplaceva i kuća</a>
+</li>
+<li>
+<a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Brza pretraga - Pretraga auto usluga" href="/auto-usluge">Pretraga auto usluga</a>
+</li>
+<li>
+<a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Brza pretraga - Automobili za zamenu" href="/auto-oglasi/pretraga?without_price=1&amp;showOldNew=all&amp;trade%5B0%5D=4004&amp;trade%5B1%5D=4005&amp;trade%5B2%5D=4006&amp;trade%5B3%5D=4007">Automobili za zamenu</a>
+</li>
+<li>
+<a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Brza pretraga - Najtraženiji modeli" href="/najtrazeniji-modeli/">Najtraženiji modeli automobila</a>
+</li>
+<li>
+<a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Kupujem - Online prodavnica" href="/prodavnica">Online prodavnica</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="uk-parent" data-uk-dropdown="{delay: 200}">
+<a href="#">PONUDA VOZILA <i class="uk-icon uk-icon-caret-down"></i></a>
+<div class="mm mm-1 uk-dropdown uk-dropdown-navbar">
+<div class="uk-grid">
+<div class="uk-width-1-3" style="padding:0 20px;">
+<ul class="uk-nav uk-nav-navbar dropdown-link-color uk-margin-remove">
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Ponuda vozila - Putnička vozila" href="/"><span class="icon-cat-26" style="font-size: 0.95em;"></span> Putnička vozila</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Ponuda vozila - Motori" href="/motori"><span class="icon-cat-29" style="font-size: 1.2em;"></span> Motori</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Ponuda vozila - Transportna vozila" href="/kombi-i-laka-dostavna-vozila"><span class="icon-cat-truck"></span> Transportna vozila</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Ponuda vozila - Poljoprivredne mašine" href="/traktori"><span class="icon-cat-5000"></span> Poljoprivredne mašine</a></li>
+</ul>
+</div>
+<div class="uk-width-1-3" style="padding:0 20px;">
+<ul class="uk-nav uk-nav-navbar dropdown-link-color">
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Ponuda vozila - Radne mašine" href="/radne-masine"><span class="icon-cat-33"></span> Radne mašine</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Ponuda vozila - Plovila" href="/plovila"><span class="icon-cat-3383" style="font-size: 1em;"></span> Plovila</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Ponuda vozila - Bicikli" href="/bicikli"><span class="icon-cat-237" style="font-size: 1.3em;"></span> Bicikli</a></li>
+</ul>
+</div>
+<div class="uk-width-1-3 uk-text-center">
+<a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Ponuda vozila - Top prodavci" href="/auto-prodavci" style="font-size: 1.3em">
+							Lista prodavaca<br/>
+<span class="icon-top-prodavci" style="font-size: 5em; width: inherit; margin:0px 0px 5px 0px;"></span><br/>
+							Njihova ponuda
+						</a>
+</div>
+</div>
+</div>
+</li>
+<li class="uk-parent dio-mm" data-uk-dropdown="{delay: 200}">
+<a class="position-relative" href="/delovi-i-oprema">DELOVI I OPREMA <i class="uk-icon uk-icon-caret-down"></i></a>
+<div class="mm mm-1-a uk-dropdown uk-dropdown-navbar">
+<div class="uk-grid">
+<div class="uk-width-1-3 fix-1">
+<div class="uk-width-1-1">
+<p>
+<strong>Auto delovi:</strong>
+</p>
+</div>
+<div class="uk-width-1-1">
+<ul class="uk-nav uk-nav-navbar dropdown-link-color">
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Delovi i oprema - Karoserija, šasija, limarija" href="/delovi-i-oprema/automobili/auto-delovi/karoserija-sasija-limarija"><span class="icon-karoserija-i-sasija"></span> Karoserija, šasija, limarija</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Delovi i oprema - Elektrika i elektronika" href="/delovi-i-oprema/automobili/auto-delovi/elektrika-i-elektronika"><span class="icon-elektronika_i_elektrika"></span> Elektrika i elektronika</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Delovi i oprema - Motori delovi motora" href="/delovi-i-oprema/automobili/auto-delovi/motor-i-mehanicki-delovi"><span class="icon-motor-i-delovi-motora"></span> Motor i mehanički delovi</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Delovi i oprema - Oslanjanje i upravljanje" href="/delovi-i-oprema/automobili/auto-delovi/oslanjanje-i-upravljanje"><span class="icon-oslanjanje-i-upravljanje"></span> Oslanjanje i upravljanje</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Delovi i oprema - Enterijer" href="/delovi-i-oprema/automobili/auto-delovi/enterijer"><span class="icon-enterijer"></span> Enterijer</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Delovi i oprema - Transmisija i delovi" href="/delovi-i-oprema/automobili/auto-delovi/transmisija-i-delovi"><span class="icon-transmisija-i-delovi"></span> Transmisija</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Delovi i oprema - Izduvni sistemi" href="/delovi-i-oprema/automobili/auto-delovi/izduvni-sistem"><span class="icon-izduvni_sistem"></span> Izduvni sistem</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Delovi i oprema - Klima, grejanje i ventilacija" href="/delovi-i-oprema/automobili/auto-delovi/klima-grejanje-i-ventilacija"><span class="icon-klima_i_grejanje"></span> Klima, grejanje i ventilacija</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Delovi i oprema - Kočioni sistemi" href="/delovi-i-oprema/automobili/auto-delovi/kocioni-sistemi"><span class="icon-kocioni_sistem"></span> Kočioni sistemi</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Delovi i oprema - Svetla i signalizacija" href="/delovi-i-oprema/automobili/auto-delovi/svetla-i-signalizacija"><span class="icon-svetla_i_signalizacija"></span> Svetla i signalizacija</a></li>
+</ul>
+</div>
+</div>
+<div class="uk-width-1-3 fix-1">
+<div class="uk-width-1-1">
+<p>
+<strong>Najtraženije kategorije:</strong>
+</p>
+</div>
+<div class="uk-width-1-1">
+<ul class="uk-nav uk-nav-navbar dropdown-link-color">
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Delovi i oprema - Auto oprema" href="/delovi-i-oprema/automobili/auto-oprema"><span class="icon-cat-26" style="font-size: 0.9em;"></span> Auto oprema</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Delovi i oprema - Gume za automobile" href="/delovi-i-oprema/automobili/auto-gume/pretraga?categoryTires=26"><span class="icon-gume-za-automobile"></span> Gume za automobile</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Delovi i oprema - Felne i ratkapne" href="/delovi-i-oprema/automobili/ratkapne-i-felne"><span class="icon-felne-i-ratkapne"></span> Felne i ratkapne</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Alati i oprema za servise" href="/delovi-i-oprema/automobili/auto-oprema/pretraga?page=1&amp;sort=relevantnost_desc&amp;type=4218&amp;subtype=9560&amp;city_distance=0&amp;without_price=1"><span class="icon-alati-za-servise"></span> Alati za servise</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Delovi i oprema - Kompletan auto u delovima" href="/delovi-i-oprema/automobili/auto-delovi/kompletan-auto-u-delovima"><span class="icon-cat-26" style="font-size: 0.9em;"></span> Kompletan auto u delovima</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Delovi i oprema - Delovi za traktore" href="/delovi-i-oprema/delovi-za-poljoprivredne-masine/pretraga?text_search=&amp;agroCategory=6003"><span class="icon-cat-5000"></span> Delovi za traktore</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Delovi i oprema - Delovi i oprema za motore" href="/delovi-i-oprema/motori/moto-delovi-i-oprema"><span class="icon-cat-29" style="font-size: 1.2em;"></span> Delovi i oprema za motore</a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Delovi i oprema - Delovi i oprema za kamione preko 7,5 tona" href="/delovi-i-oprema/delovi-i-oprema-za-transportna-vozila/pretraga?text_search=&amp;transport_category=2648"><span class="icon-cat-truck"></span> Delovi i oprema za kamione preko 7,5 tona </a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Delovi i oprema - Delovi i oprema za kombije" href="/delovi-i-oprema/delovi-i-oprema-za-transportna-vozila/pretraga?text_search=&amp;transport_category=3360"><span class="icon-cat-3360" style="font-size: 1.1em;"></span> Delovi i oprema za kombije </a></li>
+<li><a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Delovi i oprema - Gume za traktore" href="/delovi-i-oprema/delovi-za-poljoprivredne-masine/gume-za-traktor/pretraga?categoryTires=3382"><span class="icon-gume-za-automobile"></span> Gume za traktore</a></li>
+</ul>
+</div>
+</div>
+<div class="uk-width-1-3 uk-text-center position-relative">
+<a class="js_ga-event fix-2" data-action="click" data-category="Navbar" data-label="Delovi i oprema - Delovi na klik" href="/delovi-i-oprema/pronadji-deo">
+						    Zatraži ponudu od više prodavaca odjednom<br/>
+<span class="icon-delovi_na_klik_icon fix-3" style="font-size: 5em; margin: 10px 0;"></span><br/>
+						    Delovi na klik
+					    </a>
+<a class="js_ga-event fix-4" data-action="click" data-category="Navbar" data-label="Delovi i oprema - Top prodavci" href="/prodavci-auto-delova" onclick="dataLayer.push({'event':'akvizicija spec prod - mega meni'});">
+						    Specijalizovani prodavci auto delova<br/>
+<span class="icon-top-prodavci fix-5"></span><br/>
+						    Njihova ponuda
+					    </a>
+</div>
+</div>
+</div>
+</li> <li class="uk-parent" data-uk-dropdown="{delay: 200}">
+<a href="/prodajete-sopstveno-vozilo-usluge">PRODAJEM <i class="uk-icon uk-icon-caret-down"></i></a>
+<div class="mm mm-3 uk-dropdown uk-dropdown-navbar selling">
+<div class="uk-grid">
+<div class="uk-width-1-4 uk-text-center">
+<a href="/oglas/novi?attp=navigacija_prodajem" id="new-ad-icon" onclick="dataLayer.push({'event': 'ad posting prodajem','datapoint_attributing_promotion':'navigacija_prodajem'});">
+							Postavi oglas<br/>
+<span class="icon-add-clasified" style="font-size: 5em; width: inherit; margin: 0px;"></span><br/>
+							Formular za postavku
+						</a>
+</div>
+<div class="uk-width-1-4 uk-text-center">
+<a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Prodajem - prodaj sopstveno vozilo" href="/prodajete-sopstveno-vozilo" id="fast-sell">
+							Prodaj sopstveno vozilo<br/>
+<span class="icon-prodajem_sopsteno_vozilo_icon" style="font-size: 5em; width: inherit; margin: 0px;"></span><br/>
+							Besplatni i dodatni oglasi
+						</a>
+</div>
+<div class="uk-width-1-4 uk-text-center">
+<a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Prodajem - Oglasite celokupnu ponudu" href="/bavite-se-trgovinom" id="select-package" target="_blank">
+							Oglasi celokupnu ponudu <br/>
+<span class="icon-celokupna-ponuda" style="font-size: 5em; width: inherit; margin: 0px;"></span><br/>
+							Ponuda za oglašavanje
+						</a>
+</div>
+<div class="uk-width-1-4 uk-text-center">
+<a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Prodajem - Ubrzajte prodaju" href="/usluge-promocije-oglasa" id="fast-sell">
+							Ubrzaj prodaju<br/>
+<span class="icon-istaknite-oglas" style="font-size: 5em; width: inherit; margin: 0px;"></span><br/>
+							Istakni oglas
+						</a>
+</div>
+</div>
+</div>
+</li>
+<li class="uk-parent" data-uk-dropdown="{delay: 200}">
+<a href="#">AUTO OSIGURANJE <i class="uk-icon uk-icon-caret-down"></i></a>
+<div class="mm mm-4 uk-dropdown uk-dropdown-navbar car-insurance">
+<div class="uk-grid">
+<div class="uk-width-1-4 uk-text-center">
+<a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Auto osiguranje - Osiguranje od autoodgovornosti" href="https://www.osiguranik.com/osiguranje/auto-odgovornost/kalkulator-registracije-vozila/" id="auto-insurance" rel="noopener" target="_blank"><br/>
+<span class="sprite-images osiguranik-1"></span><br/>
+							Osiguranje od <br/>autoodgovornosti <i class="uk-icon-external-link"></i>
+</a>
+</div>
+<div class="uk-width-1-4 uk-text-center">
+<a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Auto osiguranje - Kasko osiguranje" href="http://www.osiguranik.com/osiguranje/kasko-osiguranje/kupovina-online/" id="kasko-insurance" rel="noopener" target="_blank"><br/>
+<span class="sprite-images osiguranik-3"></span><br/>
+							Kasko <br/>Osiguranje <i class="uk-icon-external-link"></i>
+</a>
+</div>
+<div class="uk-width-1-4 uk-text-center">
+<a class="js_ga-event" data-action="click" data-category="Navbar" data-label="Auto osiguranje - Osiguranje robe u transportu" href="https://www.osiguranik.com/osiguranje/pomoc-na-putu/pomoc-na-putu-online/" id="insurance-of-goods-in-transit" rel="noopener" target="_blank"><br/>
+<span class="sprite-images osiguranik-4"></span><br/>
+							Pomoć <br/>na putu <i class="uk-icon-external-link"></i>
+</a>
+</div>
+<div class="uk-width-1-4 uk-text-center">
+<a class="js_ga-event osiguranik-logo" data-action="click" data-category="Navbar" data-label="Auto osiguranje - Osiguranik logo" href="http://www.osiguranik.com/" id="osiguranik-logo" rel="noopener" target="_blank" title="Osiguranik logo">
+<div class="sprite-images osiguranik-mm-logo">
+<span style="display: none">Osiguranik logo</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</li>
+<li><a href="/auto-vesti/">SAVETI I VESTI </a></li>
+<li class="uk-parent">
+<a href="/promocije-oglasa" onclick="ga('send', 'event', 'Navbar', 'click', 'Klik na Usluge i krediti u navigaciji', {'nonInteraction': 1});">
+				USLUGE I KREDITI
+			</a>
+</li>
+<li>
+<a href="/bavite-se-trgovinom" onclick="ga('send', 'event', 'Navbar', 'click', 'Klik na Ponuda za oglasavanje u navigaciji', {'nonInteraction': 1});">
+				PONUDA ZA OGLAŠAVANJE
+			</a>
+</li>
+</ul>
+</div>
+<div class="uk-navbar uk-hidden-large position-relative">
+<div class="nav-ajustmants position-relative">
+<a class="uk-icon uk-icon-bars uk-align-right header-nav-item" data-uk-offcanvas="mode:'slide'" href="#side-navigation-bar" name="Meni" title="Meni"></a>
+<a class="icon-cat-26 uk-align-right header-nav-item choose-category-mob" href="#" name="Odabir kategorije" title="Odabir kategorije"></a>
+<a href="/"><img alt="Polovniautomobili.com" class="polovniautomobili-logo" src="/bundles/site/images/polovniautomobili-logo-mob.svg"/></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="details js-ad-details-page">
+<div class="uk-container uk-container-center body" style="background: transparent;">
+<ul class="uk-breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a class="breadcrumb_naslovna" href="/" itemprop="item">
+<i class="uk-icon uk-icon-home" title="Naslovna"></i>
+<span itemprop="name">Naslovna</span>
+</a>
+<meta content="1" itemprop="position"/>
+</li>
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a class="js_ga-event breadcrumb_kategorija" data-action="click" data-category="Oglas" data-label="klik na katregoriju u breadcrumb-u –  Putnička vozila" href="/" itemprop="item">
+<span itemprop="name">Putnička vozila</span>
+</a>
+<meta content="2" itemprop="position"/>
+</li>
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a class="js_ga-event breadcrumb_marka" data-action="click" data-category="Oglas" data-label="klik na marku u breadcrumb-u – Putnička vozila" href="/auto-oglasi/audi" itemprop="item">
+<span itemprop="name">Audi</span>
+</a>
+<meta content="3" itemprop="position"/>
+</li>
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a class="js_ga-event breadcrumb_model" data-action="click" data-category="Oglas" data-label="klik na model u breadcrumb-u – Putnička vozila" href="/auto-oglasi/audi/a4" itemprop="item">
+<span itemprop="name">A4</span>
+</a>
+<meta content="4" itemprop="position"/>
+</li>
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a class="js_ga-event breadcrumb_karoserija" data-action="click" data-category="Oglas" data-label="klik na karoseriju u breadcrumb-u – Putnička vozila" href="/auto-oglasi/audi/a4/limuzina" itemprop="item">
+<span itemprop="name">Limuzina</span>
+</a>
+<meta content="5" itemprop="position"/>
+</li>
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a class="js_ga-event breadcrumb_gorivo" data-action="click" data-category="Oglas" data-label="klik na gorivo u breadcrumb-u – Putnička vozila" href="/auto-oglasi/audi/a4/limuzina/dizel" itemprop="item">
+<span itemprop="name">Dizel</span>
+</a>
+<meta content="6" itemprop="position"/>
+</li>
+</ul>
+<div id="not-cached-position-holder">
+</div>
+<div class="table js-tutorial-all">
+<div class="table-cell-left">
+<h1>
+								Audi A4 2.0 TDI S Line
+																	<small>
+										2008. godište
+										
+									</small>
+</h1>
+<div class="uk-grid">
+<div class="uk-width-1-1 position-relative">
+<div class="position-relative spinner-gallery">
+<div class="spinner-overlay position-absolute">
+<div class="spinner-holder position-absolute">
+<div class="spinner-loader"></div>
+<div class="spinner-loader2"></div>
+<div class="spinner-loader3"></div>
+<div class="spinner-gallery-text">
+						Učitavanje slika ...
+					</div>
+</div>
+</div>
+</div>
+<div class="item item-gallery js-tutorial-photo" style="max-width: 800px; margin: auto;">
+<div class="clearfix position-relative">
+<ul class="gallery list-unstyled cS-hidden" id="image-gallery">
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/9beb41578be7-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/9beb41578be7-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125043" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/9beb41578be7-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/3da778d9e512-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/3da778d9e512-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125060" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/3da778d9e512-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/34ddc1be53e1-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/34ddc1be53e1-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125061" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/34ddc1be53e1-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/35629409d682-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/35629409d682-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125064" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/35629409d682-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/5f6a399b2174-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/5f6a399b2174-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125065" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/5f6a399b2174-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/47f5db747e82-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/47f5db747e82-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125067" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/47f5db747e82-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/93e737d8ef35-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/93e737d8ef35-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125069" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/93e737d8ef35-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/c3deb79b3188-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/c3deb79b3188-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125071" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/c3deb79b3188-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/38d11793483b-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/38d11793483b-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125074" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/38d11793483b-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/2fe653547c3b-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/2fe653547c3b-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125077" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/2fe653547c3b-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/08a1ecb9da56-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/08a1ecb9da56-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125075" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/08a1ecb9da56-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/6d1ea05011b2-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/6d1ea05011b2-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125078" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/6d1ea05011b2-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/8d4f71573f24-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/8d4f71573f24-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125084" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/8d4f71573f24-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/da5977c7d9a4-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/da5977c7d9a4-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125089" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/da5977c7d9a4-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/5c266d3fe6c1-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/5c266d3fe6c1-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125093" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/5c266d3fe6c1-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/bb7d149ff85e-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/bb7d149ff85e-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125086" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/bb7d149ff85e-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/7b727e6f0cca-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/7b727e6f0cca-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125092" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/7b727e6f0cca-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/584564eccd1f-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/584564eccd1f-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125081" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/584564eccd1f-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/0ebd4fc28367-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/0ebd4fc28367-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125082" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/0ebd4fc28367-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/85c5b9c177c1-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/85c5b9c177c1-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125088" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/85c5b9c177c1-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/fc7c2d929ab0-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/fc7c2d929ab0-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125096" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/fc7c2d929ab0-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/610034ee24b5-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/610034ee24b5-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125097" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/610034ee24b5-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/cab7362ae58f-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/cab7362ae58f-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125098" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/cab7362ae58f-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/96211bb069cd-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/96211bb069cd-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125101" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/96211bb069cd-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/320d1908aaff-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/320d1908aaff-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125102" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/320d1908aaff-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+<li class="uk-text-center" data-src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/b199dd13d5a5-1920x1080.jpg" data-thumb="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/b199dd13d5a5-125x100.jpg">
+<img alt="Audi A4 2.0 TDI S Line" class="js_counter" data-image-id="161125104" src="https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/b199dd13d5a5-800x600.jpg" title="Audi A4 2.0 TDI S Line"/>
+<div class="position-absolute gallery-zoom-overlay uk-hidden-small uk-hidden-medium" onclick="ga('send', 'event',  'Oglas',  'click',  'Klik na galeriju koji otvara veliku galeriju', {'nonInteraction': 1});">
+<i class="uk-icon-search-plus uk-icon-large gallery-zoom-overlay-icon"></i>
+</div>
+</li>
+</ul>
+<div class="js-gallery-numbers image-counter uk-hidden">
+<span class="js-current-gallery-position">1</span>/26
+				</div>
+</div>
+</div>
+<div data-category="26" data-classifiedid="22313727" data-isnew="" data-ownerid="506772" data-status="active" data-title="Audi A4 2.0 TDI S Line - 9.500 €" id="not-cached-holder">
+<div class="uk-grid classsified-service-icons uk-margin-top">
+<div class="uk-width-7-10 icon_margin" style="">
+<div class="js-pick-tool uk-display-inline">
+<a class="icon-save" href="/prati-oglas/22313727" rel="nofollow" title="Prijavi se za praćenje ovog oglasa.  Ovaj oglas trenutno ima 1 pratilac."> <span class="classified-liked">1</span></a>
+<div class="position-relative inline-block">
+<a href="/classifieds/22313727/interested" rel="nofollow">
+<i class="js-interested icon-zainteresovan_za_kupovinu_icon position-relative" title="Prijavi se da bi mogao da označiš oglas za kupovinu">
+</i>
+</a>
+</div>
+<a class="js-print-btn js_ga-event" data-action="click" data-category="Oglas" data-label="Stampanje oglasa - [Putnička vozila]" href="/detalji-oglasa-pdf/22313727" target="_blank" title="Štampaj PDF">
+<i class="icon-print"></i>
+</a>
+<a class="js-report-classified" onclick="PA.common.report(22313727);" rel="nofollow" title="Prijavi oglas">
+<i class="icon-prijavi_oglas_new"></i>
+</a>
+</div>
+<a class="uk-hidden-medium uk-hidden-small" href="#credit-calculator-holder" style="font-size: 16px; position: absolute; left: 280px;"><img class="credit-calculator-icon calculate-credit-under-gallery" src="/bundles/site/images/calculator-icon-green.svg" style="width: 14px; margin-right: 6px;"/><span class="calculate-credit-under-gallery" style="vertical-align: bottom; color: #82b638; font-weight: bold;">Izračunaj ratu keš kredita</span></a>
+</div>
+<div class="uk-width-3-10 uk-text-right icon_margin">
+<a class="js_ga-event" data-action="click" data-category="Oglas" data-label="WhatsApp share " href="whatsapp://send?text=Audi A4 2.0 TDI S Line - 9.500 € - https://www.polovniautomobili.com/auto-oglasi/22313727/audi-a4-20-tdi-s-line-9500"> <i class="icon-tool-whatsapp"></i></a>
+<a class="js_ga-event" data-action="click" data-category="Oglas" data-label="Viber share " href="viber://forward?text=Audi A4 2.0 TDI S Line - 9.500 € - https://www.polovniautomobili.com/auto-oglasi/22313727/audi-a4-20-tdi-s-line-9500"><i class="icon-tool-viber"></i></a>
+<a class="fb-xfbml-parse-ignore" data-action="click" data-category="Oglas" data-label="FB share " href="" target="_blank"><i class="icon-tool-facebook"></i></a>
+<a class="js-tw-btn js_ga-event" data-action="click" data-category="Oglas" data-label="Twitter share " href="http://twitter.com/share?text=Audi A4 2.0 TDI S Line - 9.500 € -  https://www.polovniautomobili.com/auto-oglasi/22313727/audi-a4-20-tdi-s-line-9500 - @PolovnaVozila&amp;url=x" rel="noopener" target="_blank"><i class="icon-tool-twitter"></i></a>
+</div>
+</div>
+<div class="scrollContent" style="display: none; position: fixed; top: 0; left: 0; right: 0; background: #f9f9f9; box-shadow: 0 0 5px 2px #dcdcdc; z-index: 1002; font-size: 2em; font-weight: 700; ">
+<div class="uk-container uk-container-center body" style="background: transparent; ">
+<div class="uk-width-1-1">
+<div class="table" style="display: flex; justify-content: space-between; align-items: center;">
+<div class="table-cell-left" style="vertical-align: middle; max-width: 750px;">
+<div class="scrollContentTitle"></div>
+</div>
+<div class="js-pick-tool table-cell" style="vertical-align: middle">
+<div class="classsified-service-icons js-sticky-header" style="font-size: 1.25em; text-align: right;">
+<i class="icon-save js-not-picked js-picked-sticky-header" title="Prati ovaj oglas. Trenutno 1 pratilac."><span class="classified-liked">1</span></i>
+<div class="position-relative inline-block">
+<i class="js-interested icon-zainteresovan_za_kupovinu_icon position-relative" data-action="on" data-classifiedid="22313727" title="Zainteresovan sam za kupovinu.">
+</i>
+<div class="uk-hidden" id="success-interested-message">
+										Oglas je uspešno zapraćen i nalazi se u tvom profilu na stranici <a href="/redirect/oglasi-koje-pratim" target="_blank"><strong>Oglasi koje pratim</strong></a>.
+										<br/><br/>
+																					Pošto si isključio opciju za primanje ponuda od prodavaca za sačuvane oglase, tvoje ime, prezime, e-mail adresa, broj telefona i mesto, neće biti vidljivi oglašivaču ovog vozila.
+											<br/><br/>
+											Ako želiš da ovi podaci budu vidljivi oglašivaču kako bi te kontaktirao sa svojom ponudom, potrebno je da uključiš opciju <a href="/redirect/podesavanja" target="_blank"><strong>Dozvoli primanje ponuda prodavaca za sačuvane oglase</strong></a>, u podešavanjima na svom profilu.
+											<br/>
+<p class="uk-form">
+<label for="user_interested_note uk-text-bold">Napomena:</label>
+<textarea class="user_interested_note uk-width-1-1" cols="60" maxlength="100" name="user_interested_note" rows="4" style="resize: none"></textarea>
+</p>
+</div>
+</div>
+<a class="js-print-btn js_ga-event" data-action="click" data-category="Oglas" data-label="Stampanje oglasa - [Putnička vozila]" href="/detalji-oglasa-pdf/22313727" target="_blank" title="Štampaj PDF">
+<i class="icon-print"></i>
+</a>
+<a class="js-report-classified" onclick="PA.common.report(22313727);" rel="nofollow" title="Prijavi oglas">
+<i class="icon-prijavi_oglas_new"></i>
+</a>
+<a class="js_ga-event" data-action="click" data-category="Oglas" data-label="WhatsApp share " href="whatsapp://send?text=Audi A4 2.0 TDI S Line - 9.500 € - https://www.polovniautomobili.com"> <i class="icon-tool-whatsapp"></i></a>
+<a class="js_ga-event" data-action="click" data-category="Oglas" data-label="Viber share " href="viber://forward?text=Audi A4 2.0 TDI S Line - 9.500 € - https://www.polovniautomobili.com"><i class="icon-tool-viber"></i></a>
+<a class="js-fb-btn js_ga-event" data-action="click" data-category="Oglas" data-label="FB share " onclick="FB.ui({ method: 'feed', link: window.location.href });"><i class="icon-tool-facebook"></i></a>
+<a class="js-tw-btn js_ga-event" data-action="click" data-category="Oglas" data-label="Twitter share " href="http://twitter.com/share?text=Audi A4 2.0 TDI S Line - 9.500 € -  https://www.polovniautomobili.com - @PolovnaVozila&amp;url=x" rel="noopener" target="_blank"><i class="icon-tool-twitter"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="application/javascript">
+	$(function () {
+                     userId = $.cookie('machine_id');
+        
+					classified_data = {
+				'classifiedId': 22313727,
+				'brand': 38,
+				'model': 959,
+				'price': 9500.00,
+				'year': 2008.00,
+				'chassis': 277
+				};
+		
+        // check if class exists, if not, then load recommended ads, this prevents of loading it 2 times
+        if (typeof $(".more-ads-holder")[0] == 'undefined'){
+            PA.details.recommendedAds(userId, 22313727, classified_data);
+        }
+	});
+</script>
+<script type="application/javascript">
+    $(function () {
+        PA.details.toggleInterested('i4ejbXVwh8OwiugS5B9x49Z0nVq_MYy34Xl5Eb4Hns8', 'Putnička vozila');
+        PA.details.bindPickTool($('.js-pick-tool'), 22313727, 'toJp0_GqBCF0r7TOW7j1qlf9fStJJk7I3MYogMjL0PU', 26);
+		
+                    dataLayer.push({
+	            'ulogovan' : false,
+				'user_login_state': 'no',
+				'user_uid' : '0'
+            });
+        	    $('.scrollContentTitle').html($('.scrollContentTitleHidden').html());
+		//$('.scrollContentTitle').html($('.scrollContentTitleHidden').append('<a style="font-size: 15px; display: inline-block; vertical-align: text-bottom;" href="#credit-calculator-holder"><img class="credit-calculator-icon" src="/bundles/site/images/calculator-icon-green.svg" style="width: 14px; margin-right: 6px;"><span style="font-size: 14px; color: #07d; vertical-align: middle;">Izračunaj ratu kredita</span></a>').html());
+
+		urlForFBShare = 'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(window.location.href);
+		$('.js-fb-btn').attr('href', urlForFBShare);
+	});
+</script>
+</div>
+</div>
+</div>
+<div class="classified-content" id="classified-content">
+<div class="uk-width-1-1">
+<section class="js_fixedContetLoad">
+<section class="uk-grid uk-margin-top">
+<div class="uk-width-1-1">
+<div class="infoBox">
+<h2 class="classified-title">Opšte informacije</h2>
+<div class="uk-width-1-1 uk-margin-top">
+<div class="uk-grid">
+<div class="uk-width-1-1">
+<div class="uk-grid">
+<div class="uk-hidden" id="adoceansikpktioqgnc"></div>
+<script type="text/javascript">
+        /* (c)AdOcean 2003-2019, infostud.com.polovniautomobili.com.Desktop.Putnicka vozila.Unutrasnje  floater */
+        ado.slave('adoceansikpktioqgnc', {myMaster: 'y4gxqTdrXD20f5bzcQJzqW5oXljRO.rnydyY5yaguP7.Q7' });
+    </script>
+<div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-1-1">
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Stanje:</div>
+<div class="uk-width-1-2 uk-text-bold">Polovno vozilo</div>
+</div>
+</div>
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Marka</div>
+<div class="uk-width-1-2 uk-text-bold">Audi</div>
+</div>
+</div>
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Model</div>
+<div class="uk-width-1-2 uk-text-bold">A4</div>
+</div>
+</div>
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Godište</div>
+<div class="uk-width-1-2 uk-text-bold">2008.</div>
+</div>
+</div>
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Kilometraža</div>
+<div class="uk-width-1-2 uk-text-bold">216.000 km</div>
+</div>
+</div>
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Karoserija</div>
+<div class="uk-width-1-2 uk-text-bold">Limuzina</div>
+</div>
+</div>
+<div class="divider" style="border-bottom: none">
+<div class="uk-grid">
+<div class="uk-width-1-2">Gorivo</div>
+<div class="uk-width-1-2 uk-text-bold">Dizel</div>
+</div>
+</div>
+</div>
+<div class="uk-width-medium-1-2" style="padding-left: 40px">
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Kubikaža</div>
+<div class="uk-width-1-2 uk-text-bold">1968 cm<sup>3</sup></div>
+</div>
+</div>
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Snaga motora</div>
+<div class="uk-width-1-2 uk-text-bold">105/143 (kW/KS)</div>
+</div>
+</div>
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Fiksna cena</div>
+<div class="uk-width-1-2 uk-text-bold">NE</div>
+</div>
+</div>
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Zamena:</div>
+<div class="uk-width-1-2 uk-text-bold">NE</div>
+</div>
+</div>
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Broj oglasa:</div>
+<div class="uk-width-1-2 uk-text-bold">22313727</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</section>
+<div class="js-tab-classified-content classified-content">
+<section class="uk-grid uk-margin-top">
+<div class="uk-width-1-1">
+<div class="infoBox">
+<h2 class="classified-title js-title-toggle position-relative">Dodatne informacije <i class="uk-icon uk-icon-chevron-down uk-hidden-large uk-hidden-medium position-absolute"></i></h2>
+<div class="uk-grid js-hidden uk-margin-top">
+<div class="uk-width-medium-1-2 uk-width-1-1">
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Plivajući zamajac</div>
+<div class="uk-width-1-2 uk-text-bold">Bez plivajućeg zamajca </div>
+</div>
+</div>
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Emisiona klasa motora</div>
+<div class="uk-width-1-2 uk-text-bold">Euro 5 </div>
+</div>
+</div>
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Pogon</div>
+<div class="uk-width-1-2 uk-text-bold">Prednji </div>
+</div>
+</div>
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Menjač</div>
+<div class="uk-width-1-2 uk-text-bold">Automatski / poluautomatski </div>
+</div>
+</div>
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Broj vrata</div>
+<div class="uk-width-1-2 uk-text-bold">4/5 vrata </div>
+</div>
+</div>
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Broj sedišta</div>
+<div class="uk-width-1-2 uk-text-bold">5 sedišta </div>
+</div>
+</div>
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Strana volana</div>
+<div class="uk-width-1-2 uk-text-bold">Levi volan </div>
+</div>
+</div>
+<div class="divider" style="border-bottom: none;">
+<div class="uk-grid">
+<div class="uk-width-1-2">Klima</div>
+<div class="uk-width-1-2 uk-text-bold">Automatska klima </div>
+</div>
+</div>
+</div>
+<div class="uk-width-medium-1-2 uk-width-1-1" style="padding-left: 40px">
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Boja</div>
+<div class="uk-width-1-2 uk-text-bold">Crna </div>
+</div>
+</div>
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Materijal enterijera</div>
+<div class="uk-width-1-2 uk-text-bold">Kombinovana koža </div>
+</div>
+</div>
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Boja enterijera</div>
+<div class="uk-width-1-2 uk-text-bold">Crna </div>
+</div>
+</div>
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Registrovan do</div>
+<div class="uk-width-1-2 uk-text-bold">Nije registrovan </div>
+</div>
+</div>
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Poreklo vozila</div>
+<div class="uk-width-1-2 uk-text-bold">Domaće tablice </div>
+</div>
+</div>
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Vlasništvo</div>
+<div class="uk-width-1-2 uk-text-bold">Vodi se na prodavca </div>
+</div>
+</div>
+<div class="divider">
+<div class="uk-grid">
+<div class="uk-width-1-2">Oštećenje</div>
+<div class="uk-width-1-2 uk-text-bold">Nije oštećen </div>
+</div>
+</div>
+<div class="divider" style="border-bottom: none;">
+<div class="uk-grid">
+<div class="uk-width-1-2">Način prodaje</div>
+<div class="uk-width-1-2 uk-text-bold">Konsignaciona </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="uk-grid uk-margin-top generationInfo">
+<div class="uk-width-1-1" style="padding: 0px 35px">
+<h2 class="position-relative">Više informacija o ovom modelu <span class="uk-hidden-small">Sadržaj sajta polovniautomobili.com</span></h2>
+<div class="uk-grid">
+<div class="uk-width-1-1 uk-margin-bottom">
+<span class="generationTitle">Audi A4 (2004 - 2009)</span>
+</div>
+<div class="uk-width-medium-6-10 uk-width-1-1">
+<div class="uk-grid">
+<div class="uk-width-1-1">
+<p>Video test ovog modela, troškovi održavanja, tehničke specifikacije modela</p>
+<p>Iskustva vozača koji trenutno imaju ili su vozili ovaj model</p>
+</div>
+</div>
+</div>
+<div class="uk-width-medium-4-10 uk-width-1-1 uk-text-right uk-text-center-small">
+<a class="paBlueButtonTertiary" href="/automobili/audi/a4/2005-2008" target="_blank">Pogledaj detaljnije informacije</a>
+</div>
+</div>
+</div>
+</section>
+<div class="uk-grid uk-margin-top">
+<div class="uk-width-1-1">
+<section class="uk-margin-top uk-margin-bottom">
+<div class="uk-width-1-1 position-relative js_calcHolder" style="overflow: hidden; margin-left: auto; margin-right: auto; width: 714px; ">
+<i class="uk-icon-close position-absolute cursor-pointer js_closeCalcHolder js_ga-event" data-action="click" data-category="Oglas" data-label="Zatvaranje kreditnog banera" style="top: 25px; right: 5px; font-size: 1.5em; z-index:1000; opacity: 0.5"></i>
+<div class="uk-grid">
+<div class="uk-width-1-1 uk-text-center">
+<small>Reklama</small>
+</div>
+<div class="uk-width-1-1">
+<div id="adoceansiokieqilnzw"></div>
+<script type="text/javascript">
+							/* (c)AdOcean 2003-2020, infostud.com.polovniautomobili.com.Desktop.Putnicka vozila.Oglas  kalkulator */
+							ado.slave('adoceansiokieqilnzw', {myMaster: 'y4gxqTdrXD20f5bzcQJzqW5oXljRO.rnydyY5yaguP7.Q7' });
+						</script>
+</div>
+</div>
+</div>
+</section>
+<script>
+	$(document).ready(function () {
+		$('.js_closeCalcHolder').on('click', function () {
+			$('.js_calcHolder').slideUp(200);
+		});
+	});
+</script>
+<style>
+	.js_closeCalcHolder:hover {
+		opacity: 0.3 !important;
+	}
+</style> </div>
+</div>
+<section class="uk-grid uk-margin-top">
+<div class="uk-width-1-1">
+<div class="infoBox">
+<h2 class="classified-title js-title-toggle position-relative">Sigurnost <i class="uk-icon uk-icon-chevron-down uk-hidden-large uk-hidden-medium position-absolute"></i></h2>
+<div class="uk-grid js-hidden uk-margin-top">
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Airbag za vozača</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Airbag za suvozača</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Bočni airbag</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Child lock</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">ABS</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">ESP</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">ASR</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Alarm</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Kodiran ključ</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Centralno zaključavanje</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">OBD zaštita</div>
+</div>
+</div>
+</div>
+</section>
+<section class="uk-grid uk-margin-top">
+<div class="uk-width-1-1">
+<div class="infoBox">
+<h2 class="classified-title js-title-toggle position-relative">Oprema<i class="uk-icon uk-icon-chevron-down uk-hidden-large uk-hidden-medium position-absolute"></i></h2>
+<div class="uk-grid js-hidden uk-margin-top">
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Metalik boja</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Branici u boji auta</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Servo volan</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Multifunkcionalni volan</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Tempomat</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Daljinsko zaključavanje</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Putni računar</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Tonirana stakla</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Električni podizači</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Električni retrovizori</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Grejači retrovizora</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Sedišta podesiva po visini</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Grejanje sedišta</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Svetla za maglu</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Xenon svetla</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Senzori za svetla</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Senzori za kišu</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Parking senzori</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Radio/Kasetofon</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Radio CD</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">CD changer</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Naslon za ruku</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">ISOFIX sistem</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Sportska sedišta</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Sportsko vešanje</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">DPF filter</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Dnevna svetla</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Kožni volan</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Utičnica od 12V</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Elektro otvaranje prtljažnika</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Podešavanje volana po visini</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Držači za čaše</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Elektronska ručna kočnica</div>
+<div class="uk-width-medium-1-4 uk-width-1-2 uk-margin-small-bottom">Asistencija za kretanje na uzbrdici</div>
+</div>
+</div>
+</div>
+</section>
+<div class="uk-grid uk-margin-top">
+<div class="uk-width-1-1" style="padding: 0px 35px">
+<div class="uk-grid">
+<div class="uk-width-1-1 uk-margin-top uk-text-center">
+<a class="js-additional-equipment js_ga-event paBlueButtonTertiary ponuda-dodatne-opreme" data-action="click" data-category="Oglas" data-label="Ponuda dodatne opreme za Audi A4" href="https://www.polovniautomobili.com/delovi-i-oprema/ponuda-auto-opreme/audi/a4">Ponuda dodatne opreme za Audi A4</a>
+</div>
+</div>
+</div>
+</div>
+<section class="uk-grid uk-margin-top">
+<div class="uk-width-1-1">
+<div class="infoBox" id="classifiedReplaceDescription">
+<h2 class="classified-title position-relative">
+													Opis
+											</h2>
+<div class="uk-grid uk-margin-top">
+<div class="uk-width-1-1 description-wrapper">
+								Na prodaju Audi A4 B8 2.0 TDI Multitronic 3x S Line.<br>
+<br>
+Automobil je u dobrom stanju kako mehanicki tako i limarijski( ima dva sitna udubljenja jedno na vratima, jedno kod polustranice, ostalo je ok).<br>
+<br>
+Motor radi lepo,menjac salta perfektno, nema dima itd, na trapu je utegnut.<br>
+<br>
+Vodi se na moje ime, prenos je obavezan odmah.<br>
+<br>
+Od opreme poseduje:<br>
+<br>
+-S Line prednji branik<br>
+<br>
+-S Line pragovi<br>
+<br>
+-S4 Difuzor zadnjeg branika<br>
+<br>
+-S Line hrom poklopci retrovizora<br>
+<br>
+-S Line opruge<br>
+<br>
+-Felne 19’ sa odlicnim letnjim gumama<br>
+<br>
+-Bi Xenon farovi<br>
+<br>
+-S Line lajsne enterijera<br>
+<br>
+-S Line sedista sa grejacima<br>
+<br>
+-S Line volan<br>
+<br>
+-S Line nebo stubovi suncobrani rucke<br/>
+<br/>
+-Parking senzori pozadi<br/>
+<br/>
+-Tempomat<br/>
+<br/>
+Itd.<br/>
+<br/>
+Sve ostalo sto vas interesuje mozete me kontaktirati putem telefona iz oglasa.<br/>
+<br/>
+Zamene me ne interesuju.<br/>
+<br/>
+Cena nije fiksna moze se korigovati za ozbiljnog kupca na licu mesta, nemojte me zvati i pitati koja je zadnja cena itd.
+							</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></div>
+</div>
+</div>
+</div>
+</section>
+<link href="/build/credit_calculator.bc07df44.css?r12635" rel="stylesheet"/>
+<style>
+				#credit-calculator-holder {
+			scroll-margin-top: 110px;
+		}
+			</style>
+<section class="uk-grid uk-margin-top">
+<div class="uk-width-1-1">
+<div class="infoBox credit-calculator-holder" id="credit-calculator-holder">
+<h2><img class="credit-calculator-icon" src="/bundles/site/images/calculator-icon-green.svg"><span>Ponuda keš kredita</span></img></h2>
+<div class="credit-calculator">
+<div class="credit-output-wrapper">
+<div class="credit-output">
+<div>
+<img alt="bank logo" src="/images/otp-banka.gif">
+</img></div>
+<div class="monthly-installment">
+<p class="printed-amount">
+<span class="amount">6.507,57 RSD</span>
+<span>mesečna rata</span>
+</p>
+<p class="error-message-installment" style="display: none;">
+<i class="icon-report"></i><span>Za zadate vrednosti ne postoji mesečna rata.</span>
+</p>
+</div>
+<div>
+<p>0% naknade za puštanje kredita</p>
+</div>
+<div>
+<p class="external-links">
+<a class="uk-width-1-1 paOrangeButtonTertiary book-meeting show-calculator-interested" href="https://www.otpbanka.rs/polovni-automobili/?utm_source=polovniautomobili.com&amp;utm_medium=Link_CTA&amp;utm_campaign=CCC_PARTNERSKI_SAJTOVI_KES_KREDITI_RTDE_SLS_062022&amp;utm_content=Link_CTA&amp;crmc=44347236-26fe-1ba8-609b-62b468c86405&amp;utm_id=" target="_blank">Zanima me</a>
+<a class="show-calculator-example" href="https://www.otpbanka.rs/polovni-automobili/?utm_source=polovniautomobili.com&amp;utm_medium=Link_kalkulator&amp;utm_campaign=CCC_PARTNERSKI_SAJTOVI_KES_KREDITI_RTDE_SLS_062022&amp;utm_content=Link_kalkulator&amp;crmc=44347236-26fe-1ba8-609b-62b468c86405&amp;utm_id=#kalkulator" target="_blank">*Pogledajte primer kalkulatora</a>
+</p>
+</div>
+</div>
+<div class="other-banks-announcement">
+<p>
+<i class="uk-icon-info-circle orange-text"></i>
+							Uskoro više banaka</p>
+</div>
+</div>
+<div class="credit-input">
+<div class="credit-amount">
+<div class="slider-holder">
+<span>Iznos kredita</span><br/>
+<div class="input-holder">
+<input class="slider" id="slider-amount" max="2400000" min="50000" step="50000" type="range" value="300000"/>
+<input class="credit-amount-RSD" id="credit-amount-RSD" maxlength="13" name="credit-amount-RSD" type="text" value="300.000 RSD"/>
+</div>
+<p class="error-message-amount uk-invisible"> </p>
+</div>
+</div>
+<div class="payment-period">
+<span>Period otplate</span><br/>
+<div class="input-holder">
+<input class="slider" id="slider-months" max="71" min="13" step="1" type="range" value="71">
+<input class="payment-period-months" id="payment-period-months" maxlength="9" name="payment-period-months" type="text" value="71 mesec"/>
+</input></div>
+<p class="error-message-months uk-invisible"> </p>
+</div>
+</div>
+</div>
+<p class="disclaimer">*Kalkulator je informativnog karaktera i kreiran je u promotivne svrhe.</p>
+</div>
+</div>
+</section>
+<script>
+	$("input#credit-amount-RSD").on({
+		keyup: function() {
+			formatCurrencyOutput($(this));
+		}
+	});
+	$("input#credit-amount-RSD").on({
+		change: function() {
+			let min_value = 50000;
+			let max_value = 2400000;
+
+			let checked_range = checkNumberRange(min_value, max_value, amountField.value);
+			if ( checked_range == 'lower')
+				{
+				amountField.value = '50.000 RSD';
+				calculateMonthlyInstalment();
+				}
+			else if (checked_range == 'higher') {
+				amountField.value = '2.400.000 RSD';
+				calculateMonthlyInstalment();
+			}
+		}
+	})
+	
+	$("input#payment-period-months").on({
+		keyup: function() {
+			formatMonthsOutput($(this));
+		}
+	});
+
+	$("input#payment-period-months").on({
+		change: function() {
+			let min_value = 13;
+			let max_value = 71;
+			let checked_range = checkNumberRange(min_value, max_value, monthsField.value);
+			if (checked_range == 'lower')
+				{
+				monthsField.value = '13 meseci';
+				}
+			else if (checked_range == 'higher')
+				{
+				monthsField.value = '71 mesec';
+				}
+		}
+	});
+
+	function formatNumber(n) {
+		// format number: 1000000 to 1.000.000
+		return n.replace(/\D/g, "").replace(/\B(?=(\d{3})+(?!\d))/g, ".")
+	}
+
+	function formatCurrencyOutput(input) {
+		// format entered amount
+		// and puts cursor back in right position.
+
+		var input_val = input.val();
+
+		input_val = formatNumber(input_val);
+		toggleErrorMessageAmount(input_val);
+		input_val = input_val + ' RSD';
+
+		if (input_val === "") {
+			input.val(' RSD');
+			putCaretBack(input, 5, 5);
+			return;
+		}
+
+		// send updated string to input
+		input.val(input_val);
+
+		putCaretBack(input, input_val.length, 4);
+	}
+
+	function putCaretBack(input, updated_length, text_length) {
+		var caret_pos = input.prop("selectionStart"); // initial caret position
+		// var updated_length = input_val.length;
+		caret_pos = updated_length - text_length; // ' RSD'.length = 4
+		input[0].setSelectionRange(caret_pos, caret_pos);
+	}
+
+	function formatMonthsOutput(input) {
+		var input_val = input.val();
+
+		if (input_val === "") {
+			input.val(' meseci');
+			putCaretBack(input, 5, 5);
+			return;
+		}
+		var month_print = putMonthInRightCase(getNumber(input_val));
+
+		input_val = formatNumber(input_val);
+		toggleErrorMessageMonths(input_val);
+
+		input_val = input_val + month_print;
+
+		// send updated string to input
+		input.val(input_val);
+
+		putCaretBack(input, input_val.length, month_print.length);
+	}
+
+	function putMonthInRightCase(monthsNumber) {
+		var remainderDivisionBy10 = monthsNumber % 10;
+		var remainderDivisionBy100 = monthsNumber % 100;
+		if(! [11, 12, 13, 14].includes(remainderDivisionBy100)) {
+			if (remainderDivisionBy10 == 1) {
+				return ' mesec';
+			} else if ([2, 3, 4].includes(remainderDivisionBy10)) {
+				return ' meseca';
+			}
+		}
+		return ' meseci';
+	}
+
+	function toggleErrorMessageAmount(input_val)
+		{
+		let min_value = 50000;
+		let max_value = 2400000;
+		let error_message = document.querySelector('.error-message-amount');
+		let checked_range = checkNumberRange(min_value, max_value, input_val);
+		if ( checked_range == 'lower')
+			{
+			error_message.innerText = 'Minimalan iznos kredita je 50.000 RSD.'
+			error_message.classList.remove('uk-invisible');
+			}
+		else if (checked_range == 'higher') {
+			error_message.innerText = 'Maksimalan iznos kredita je 2.400.000 RSD.'
+			error_message.classList.remove('uk-invisible');
+		} else {
+			error_message.classList.add('uk-invisible');
+		}
+	}
+	function toggleErrorMessageMonths(input_val)
+		{
+		let min_value = 13;
+		let max_value = 71;
+		let error_message = document.querySelector('.error-message-months');
+		let checked_range = checkNumberRange(min_value, max_value, input_val);
+		if (checked_range == 'lower')
+			{
+			error_message.innerText = 'Minimalan period otplate je 13 meseci.'
+			error_message.classList.remove('uk-invisible');
+			}
+		else if (checked_range == 'higher')
+			{
+			error_message.innerText = 'Maksimalan period otplate je 71 mesec.'
+			error_message.classList.remove('uk-invisible');
+			}
+		else {
+			error_message.classList.add('uk-invisible');
+		}
+	}
+
+	function getNumber(number) {
+		var extracted_number = number.replace(/\D/g, "");
+		extracted_number = +extracted_number;
+		return extracted_number;
+	}
+
+	function checkNumberRange(min, max, typed_number) {
+		var number = getNumber(typed_number);
+		if (number < min) {
+			return 'lower';
+		} else if (number > max) {
+			return 'higher';
+		} else {
+			return 'good';
+		}
+	}
+
+	function showInstallmentMessage() {
+		let installmentAmountPrint = document.querySelector('.printed-amount');
+		let installmentErrorMessage = document.querySelector('.error-message-installment');
+
+		let inputAmount = amountField.value;
+		let inputMonths = monthsField.value;
+
+		if (checkNumberRange(50000, 2400000, inputAmount) == 'good' && checkNumberRange(13, 71, inputMonths) == 'good') {
+			installmentAmountPrint.style.display = 'block';
+			installmentErrorMessage.style.display = 'none';
+		} else {
+			installmentAmountPrint.style.display = 'none';
+			installmentErrorMessage.style.display = 'flex';
+		}
+	}
+
+	// connecting range and amount input
+	var amountRange = document.getElementById('slider-amount');
+	var amountField = document.getElementById('credit-amount-RSD');
+
+	amountRange.addEventListener('input', function (e) {
+		amountField.value = formatNumber(e.target.value) + ' RSD';
+		toggleErrorMessageAmount(amountField.value);
+	});
+	amountField.addEventListener('input', function (e) {
+		amountRange.value = getNumber(e.target.value);
+	});
+
+	// connecting range and month input
+	var monthsRange = document.getElementById('slider-months');
+	var monthsField = document.getElementById('payment-period-months');
+
+	monthsRange.addEventListener('input', function (e) {
+		monthsField.value = formatNumber(e.target.value) + putMonthInRightCase(e.target.value);
+		toggleErrorMessageMonths(monthsField.value);
+	});
+	monthsField.addEventListener('input', function (e) {
+		monthsRange.value = getNumber(e.target.value);
+	});
+	// connecting range and month input END
+
+	let amountFieldChangeCount = 0;
+	amountField.addEventListener('input', () => {
+		calculateMonthlyInstalment();
+		if (amountFieldChangeCount === 0) {
+			ga('send', 'event', 'Oglas', 'change', 'Promena iznosa u polju \'Iznos kredita\' - car');
+			amountFieldChangeCount++;
+		}
+	});
+
+	let amountSliderChangeCount = 0;
+	amountRange.addEventListener(
+		'input',
+		() => {
+			calculateMonthlyInstalment();
+			if (amountSliderChangeCount === 0) {
+				ga('send', 'event', 'Oglas', 'change', 'Pomeranje slajdera \'Iznos kredita\' - car');
+				amountSliderChangeCount++;
+			}
+		});
+
+	let monthsFieldChangeCount = 0;
+	monthsField.addEventListener(
+		'input',
+		() => {
+			calculateMonthlyInstalment();
+			if (monthsFieldChangeCount === 0) {
+				ga('send', 'event', 'Oglas', 'change', 'Promena iznosa u polju \'Period otplate\' - car');
+			}
+			monthsFieldChangeCount++;
+		});
+
+	let monthsSliderChangeCount = 0;
+	monthsRange.addEventListener(
+		'input',
+		() => {
+			calculateMonthlyInstalment();
+			if (monthsSliderChangeCount === 0) {
+				ga('send', 'event', 'Oglas', 'change', 'Pomeranje slajdera \'Period otplate\' - car');
+				monthsSliderChangeCount++;
+			}
+
+	});
+
+	function getInterestRateOTP(enteredAmount) {
+		let hardcodedBELIBOR3M = 0;
+		let fixedPartOfRate;
+
+		if (enteredAmount <= 300000) {
+			fixedPartOfRate = 15.45;
+		} else if (enteredAmount <= 900000) {
+			fixedPartOfRate = 15.05;
+		} else if (enteredAmount <= 1500000) {
+			fixedPartOfRate = 14.65;
+		} else {
+			fixedPartOfRate = 14.25;
+		}
+
+		let interestRate = (fixedPartOfRate + hardcodedBELIBOR3M) / 100;
+
+		return interestRate;
+
+	}
+
+	// proportional method
+	// function creditCalculator(loan, numberOfMonths, yearlyInterstRate) {
+	// 	let monthlyInterestRate = (yearlyInterstRate / 12 ) / 100;
+	// 	let annuity = (loan * monthlyInterestRate) / (1 - Math.pow((1 + monthlyInterestRate), -numberOfMonths));
+	// 	return annuity;
+	// }
+
+	function calculateMonthlyInstalment() {
+		var amount = getNumber(document.getElementById('credit-amount-RSD').value);
+		var months = +document.querySelector('#slider-months').value;
+
+		var interest_rate_OTP = getInterestRateOTP(amount);
+
+		const AVERAGE_DAYS_PER_MONTH = 30.42;
+		var divider = 0;
+
+		for (let i = 1; i <= months; i++) {
+			divider += Math.pow(1 / (1 + interest_rate_OTP * AVERAGE_DAYS_PER_MONTH / 360 ), i);
+		}
+
+		var monthly_instalment = (amount / divider).toFixed(2);
+		// var monthly_instalment = creditCalculator(amount, months, interest_rate_OTP).toFixed(2)
+		printMonthlyInstalment(monthly_instalment);
+	}
+
+	function printMonthlyInstalment(monthly_instalment) {
+		let decimalPart =  monthly_instalment.slice(-3).replace('.', ',');
+		let amountToPrint = formatNumber(monthly_instalment.substring(0, monthly_instalment.length - 3));
+		document.querySelector('.monthly-installment .amount').textContent = amountToPrint + decimalPart +  ' RSD';
+		// showInstallmentMessage();
+	}
+
+</script>
+<div class="user-recommended"></div>
+</div><br/>
+<script type="application/javascript">
+	$(function () {
+		$('dt.dtTitle').on('click', function () {
+			// $('dd').hide();
+			$(this).next().slideToggle(100);
+			$(this).children().toggleClass('uk-icon-plus-square');
+			$(this).children().toggleClass('uk-icon-minus-square');
+		});
+
+		function myFunction() {
+			var elmnt = document.getElementById("ddd");
+			elmnt.scrollIntoView(500);
+		}
+
+		$('.clickkk').on('click', function () {
+			myFunction()
+		});
+
+					dataLayer.push({'event':'ima info o modelu'});
+			});
+</script>
+</div>
+<div class="tab-holder-classified-mobile uk-hidden-large uk-grid uk-margin-remove uk-margin-bottom uk-margin-top tab-holder-classified js-tabs-holder">
+<div id="classifiedTabs">
+<div class="uk-grid uk-text-center">
+<a class="uk-width-large-1-3 uk-padding-remove active" data-tab="classified" href="#">
+<span class="left"><i class="icon-oglas_icon"></i> Oglas</span>
+</a>
+<a class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-1-2 uk-margin-remove uk-padding-remove" data-tab="model" href="#">
+<span><i class="icon-omodelu_icon"></i> O modelu</span>
+</a>
+<a class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-1-2 uk-margin-remove uk-padding-remove" data-tab="driver-impressions" href="#" onclick="ga('send','event','Oglas','click','Klik na tab Utisci');">
+<span class="right"><i class="icon-utisci_icon"></i> Utisci</span>
+</a>
+</div>
+</div>
+<div class="js-tab-content uk-width-1-1 uk-padding-remove"></div>
+</div>
+</div>
+</div>
+<aside class="table-cell side uk-hidden-medium uk-hidden-small width-320">
+<div class="uk-grid">
+<div class="uk-width-1-1">
+<div class="table">
+<div class="table-cell">
+<div class="financing">
+<span class="priceClassified regularPriceColor" style=" padding-bottom: 0;">9.500 €</span>
+<div style="margin-bottom: 10px">
+<a class="js_ga-event kllik_na_dodatni_troskovi_kupovine" data-action="Prikazivanje transprentnosti troškova kupovine" data-category="Oglas" data-label="Klik na dodatni troškovi kupovine" data-uk-modal="{target:'#other-costs-modal'}" href="#">+ dodatni troškovi kupovine</a>
+<div class="uk-modal" id="other-costs-modal">
+<div class="uk-modal-dialog">
+<div class="uk-modal-header">
+<i class="icon-omodelu_icon"></i>
+<span class="header-text">Dodatni troškovi kupovine</span>
+</div>
+<div class="uk-modal-body">
+<div class="uk-grid">
+<div class="uk-width-1-1">
+<p class="origin-explanation">* Izraz <strong>domaće tablice</strong> znači da vozilo ima tablice zemlje u kojoj se prodaje.</p>
+<p><strong>Za ovo vozilo potrebno je platiti:</strong></p>
+<ul>
+<li>Troškove overe kupoprodajnog ugovora</li>
+<li>Troškove prenosa vlasništva (2.5% kataloške/prodajne cene u oglasu)</li>
+<li>Nove tablice</li>
+<li>Novu saobraćajnu dozvolu</li>
+<li>Registaracionu nalepnicu</li>
+</ul>
+<p>Detaljnije možete pročitati <a class="js_ga-event klik_na_otvaranje_clanka" data-action="Prikazivanje transprentnosti troškova kupovine" data-category="Oglas" data-label="Klik na otvaranje članka" href="https://www.polovniautomobili.com/auto-vesti/saveti/7330/dodatni-troskovi-kod-kupovine-automobila" target="_blank">ovde</a>.</p>
+</div>
+</div>
+</div>
+<div class="uk-modal-footer">
+<div class="uk-grid">
+<div class="uk-width-1-1 uk-text-right">
+<small>Da li ti je ova informacija bila korisna?</small>
+</div>
+<div class="uk-width-1-1">
+<div class="uk-grid">
+<div class="uk-width-1-2 uk-margin-top">
+<div class="js_ga-event uk-button uk-button-link uk-modal-close button-box-shadow-remove korisnost_tooltipa_kupovine_zatvori" data-action="click" data-category="Oglas" data-label="Korisnost tooltipa - [Dodatni troškovi kupovine], Zatvori">Zatvori</div>
+</div>
+<div class="uk-width-1-2 uk-text-right uk-margin-top">
+<div class="js_ga-event paGrayButtonSecundary uk-modal-close korisnost_tooltipa_kupovine_ne" data-action="click" data-category="Oglas" data-label="Korisnost tooltipa - [Dodatni troškovi kupovine], Ne">Ne</div>
+<div class="js_ga-event paOrangeButtonPrimary uk-modal-close korisnost_tooltipa_kupovine_da" data-action="click" data-category="Oglas" data-label="Korisnost tooltipa - [Dodatni troškovi kupovine], Da">Da</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+    $(function(){
+        var is_safari = navigator.userAgent.indexOf('Safari') > -1;
+        if (is_safari){
+            $("input:radio[name=priceWithPDV]").removeAttr('required');
+        }
+
+        var surveyButtons = document.querySelectorAll('.price-survey-button');
+        if (surveyButtons.length == 2) {
+            surveyButtons.forEach(surveyButton => {
+                surveyButton.addEventListener('click', () => {
+
+                    $.ajax({
+                        type: 'GET',
+                        url: '/ClassifiedDetails/partsPricePoll',
+                        data: {
+                            classifiedId: 22313727,
+                            answer: surveyButton.getAttribute('data-value')
+                        }
+                    })
+
+                    document.querySelector('.price-survey-wrapper').classList.add('uk-invisible');
+
+                    var cookieName = "displayPriceSurvey_22313727" ;
+                    var expireDate = new Date();
+                    var minutesToAdd = 120;
+                    expireDate.setMinutes(expireDate.getMinutes() + minutesToAdd);
+                    $.cookie(cookieName, '1', {path: '/', expires: expireDate });
+
+                })})
+            }})
+    //     %}
+    // });
+</script>
+<section class="uk-grid">
+<div class="uk-width-1-1">
+<div class="infoBox js-tutorial-contact">
+<div class="uk-grid">
+<div class="uk-width-1-1">
+<div class="js-tutorial-logo">
+<div class="uk-width-1-1">
+<div class="uk-grid">
+<div class="uk-width-1-2 uk-text-left">
+<h3><a class="js_ga-event klik_na_logo_naziv" data-action="click" data-category="Oglas" data-label="Klik na logo naziv - Putnička vozila" href="/auto-delovi-aleksandar-po">BMW Delovi Aleksandar 012</a></h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="margin-top: 7px; margin-bottom: 5px;">
+<a class="js_ga-event klik-na-kompletna-ponuda" data-action="click" data-category="Oglas" data-label="Klik na kompletna ponuda - Putnička vozila" href="/auto-delovi-aleksandar-po" style="font-size: 1.3em;">
+				        Kompletna ponuda
+				        <i class="uk-icon-chevron-right" style="vertical-align: middle; font-size: 0.95em;"></i>
+</a>
+</div>
+<div class="uk-grid uk-margin-top-remove">
+<div class="uk-width-1-2">
+	                
+	                	                    Biskuplje<br/>
+<div class="address" typeof="s:postalAddress">
+<div style="display: none;">
+<div class="map-info">
+<ul>
+<li property="s:streetAddress">Adresa: Zivorada Bogica 1</li>
+<li>
+<span>
+													Mobilni: 0607575331
+												</span>
+</li>
+</ul>
+</div>
+</div>
+<a class="js_ga-event" data-action="click" data-category="Oglas" data-label="Kontakt" onclick="PA.details.mapModal(&quot;Zivorada Bogica 1&quot;,44.739493795216,21.385615825653,$('.map-info')); PA.common.dataLayerEvent('klik_adresa_prodavca_oglas')" style="cursor: pointer;">Zivorada Bogica 1</a>
+</div>
+</div>
+<div class="uk-width-1-2 uk-text-right" style="visibility: hidden;">
+<br/>
+<a class="js_ga-event klik-na-kompletna-ponuda" data-action="click" data-category="Oglas" data-label="Klik na kompletna ponuda - Putnička vozila" href="/auto-delovi-aleksandar-po">Kompletna ponuda</a>
+</div>
+<div class="uk-width-1-1 contact-phone-box">
+<a class="chosen-contact-number uk-width-1-1 paOrangeButtonTertiary js_ga-event uk-hidden" data-action="click" data-category="Oglas" data-label="pozovi - Putnička vozila" href="tel:0607575331">
+						0607575331
+					</a>
+<span class="chosen-contact-number helper uk-width-1-1 paOrangeButtonTertiary">0607575331</span>
+<div class="js-show-phone clickt-to-see-number js_ga-event ga-phone-number" data-action="click" data-adcategory="26" data-category="Oglas" data-categoryname="Putnička vozila" data-id="22313727" data-label="Klik na broj telefona - Putnička vozila">KLIK DA VIDIŠ BROJ</div>
+<ul id="contact_number-list">
+<li class="contact_number" id="cellphone">
+<label>
+									0607575331
+									<input name="contact-phone" type="radio" value="0607575331"/>
+</label>
+</li>
+</ul>
+</div>
+<div class="uk-width-1-1 uk-hidden uk-text-center uk-margin-top uk-text-success js-isOnline">ONLINE</div>
+</div>
+<div class="uk-width-1-1 evaluateSeller">
+<div class="uk-margin-top">
+<a class="leadToGradeForm js_ga-event uk-width-1-1 uk-text-center paOrangeButtonTertiary oceni_prodavca" data-action="click" data-category="Oglas" data-label="Oceni prodavca - Putnička vozila" data-request-page="details" data-url-alias="auto-delovi-aleksandar-po" href="" rel="nofollow" target="_blank">
+<i class="uk-icon-star-o uk-text-medium"></i>  OCENI PRODAVCA
+							</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<script src="/bundles/site/js/Dealer/grades.js"></script>
+<script>
+	$(function () {
+		PA.grades.leadToGradeForm();
+
+				let contactNumberList = document.querySelector('ul#contact_number-list');
+		let chosenContactNumber = document.querySelector('.chosen-contact-number');
+		let dropdownChevron = document.querySelector('.dropdown-chevron');
+		let numberOfPhoneNumbers = contactNumberList.querySelectorAll('li').length;
+
+		const triggerCorrespondingGAEvent = elementClasses => {
+			if (elementClasses.contains('active')) {
+				window.dataLayer = window.dataLayer || [];
+				window.dataLayer.push({
+					'event': 'zatvaranje_prikaza_ostalih_brojeva'
+				});
+				ga('send', 'event', 'Oglas', 'click', 'zatvaranje prikaza ostalih brojeva');
+			} else {
+				window.dataLayer = window.dataLayer || [];
+				window.dataLayer.push({
+					'event': 'prikaz_ostalih_brojeva'
+				});
+				ga('send', 'event', 'Oglas', 'click', 'prikaz ostalih brojeva');
+			}
+		}
+
+		const toggleDropdown = event => {
+			// event.preventDefault();
+			event.stopPropagation();
+			if(numberOfPhoneNumbers <= 1) {
+				return;
+			}
+			triggerCorrespondingGAEvent(contactNumberList.classList);
+			contactNumberList.classList.toggle('active');
+		}
+
+		contactNumberList.querySelectorAll('li input').forEach(num => {
+			num.addEventListener('click', () => {
+				chosenContactNumber.innerText = num.value;
+				chosenContactNumber.href = 'tel:' + num.value;
+			})
+		})
+
+		contactNumberList.querySelectorAll('li input').forEach(num => {
+			num.addEventListener('click', () => ga('send', 'event', 'Oglas', 'click', 'odabir broja telefona sa padajućeg menija - Putnička vozila'));
+		})
+
+	document.querySelector('.clickt-to-see-number').addEventListener('click', function () {
+		// chosenContactNumber.addEventListener('click', toggleDropdown);
+		document.querySelector('span.chosen-contact-number').classList.add('uk-hidden');
+		document.querySelector('a.chosen-contact-number').classList.remove('uk-hidden');
+		if (document.querySelector('div.advice-before-call')) {
+			document.querySelector('div.advice-before-call').classList.remove('uk-hidden');
+		}
+
+		if(dropdownChevron) {
+			dropdownChevron.addEventListener('click', toggleDropdown);
+			document.querySelector('.contact-phone-box .uk-icon-chevron-right').classList.remove('uk-hidden');
+		}
+	})
+
+
+
+		// Close dropdown when clicked outside the element
+		document.addEventListener('click', function(event) {
+			if(event.target != chosenContactNumber) {
+				if (contactNumberList.classList.contains('active')) {
+					triggerCorrespondingGAEvent(contactNumberList.classList);
+					contactNumberList.classList.remove('active');
+				}
+			}
+		})
+					});
+</script>
+<div class="uk-text-center uk-margin-top uk-margin-bottom" style="width: 300px; margin: auto">
+<small>Reklama</small>
+<div id="PA_DESKTOP_300x600" style="min-width: 300px; min-height: 250px;">
+<script>
+        googletag.cmd.push(function() { googletag.display('PA_DESKTOP_300x600'); });
+    </script>
+</div>
+</div>
+<hr/>
+<div class="osiguranik-link">
+<span class="osiguranik-banner">
+<a href="https://www.osiguranik.com/" rel="noopener" target="_blank" title="Osiguranik.com">
+<img alt="Osiguranik.com" class="lazy" data-srcset="/bundles/site/images/osiguranik-logo.svg" src="" srcset="/bundles/site/images/osiguranik-logo.svg"/>
+</a>
+</span>
+<div class="osiguranikConternt">Cena registracije ovog vozila:<br/>
+								od <strong>33.978 RSD</strong> do <strong>37.977 RSD</strong><br/>
+<a class="uk-width-1-1 paOrangeButtonTertiary js_ga-event" data-action="click" data-category="Oglas" data-label="Registracija vozila - Tacan iznos" href="https://www.osiguranik.com/osiguranje/auto-odgovornost/kalkulator-registracije-vozila/?vrstav=1&amp;godiste=2008&amp;zapremina=1968&amp;snaga=105&amp;ino=1&amp;elektro=0&amp;utm_source=pa_sajt&amp;utm_medium=widget_registracija&amp;utm_campaign=kalkulator" rel="noopener" target="_blank">Pogledaj tačan iznos registracije</a><br/>
+<span class="regOsTxt">Obračun je omogućen u saradnji sa <a class="orange-text js_ga-event" data-action="click" data-category="Oglas" data-label="Registracija vozila - RegOs link" href="http://www.regos.rs/?utm_source=polovniautomobili.com&amp;utm_medium=osiguranik_frame&amp;utm_campaign=pa_regos" rel="noopener" target="_blank">RegOs softverom</a></span><br/>
+<img alt="new image" class="vehicle-inspection-image" src="/bundles/site/images/new-pointer-right.svg"/> Rezervacija tehničkog pregleda online<br/>
+<a class="uk-width-1-1 paOrangeButtonTertiary vehicle-inspection js_ga-event GA-event-oglas-zakazi_tehnicki_pregled" data-action="click" data-category="Oglas" data-label="Registracija vozila - zakazi tehnicki pregled" href="https://www.osiguranik.com/zakazivanje-tehnickog-pregleda/?utm_source=PA&amp;utm_medium=widget&amp;utm_campaign=tehnicki&amp;utm_id=5" rel="noopener" target="_blank">Zakaži tehnički pregled vozila online</a>
+																Kupovina kasko osiguranja<br/>
+<a class="uk-width-1-1 paOrangeButtonTertiary js_ga-event" data-action="click" data-category="Oglas" data-label="Registracija vozila - Popuni upitnik" href="https://www.osiguranik.com/osiguranje/kasko-osiguranje/kupovina-online/?utm_source=pa_sajt&amp;utm_medium=widget_registracija&amp;utm_campaign=kasko" rel="noopener" target="_blank">Popuni upitnik za kasko osiguranje</a>
+<span class="regOsTxt">Prikazani podaci su informativnog karaktera.</span>
+</div>
+</div>
+<div style="max-width: 300px;  margin: auto">
+<div class="uk-button side-useful-links uk-margin-top uk-margin-bottom uk-width-1-1">
+<a class="uk-grid js_ga-event kupopodajni_ugovor" data-action="click" data-category="Oglas" data-label="Oglas - Kupujem - Kupoprodajni ugovor" href="/docs/kupoprodajni-ugovor.pdf" target="_blank" title="Ovaj model ugovora je dat samo informativno i kao primer. U svakom slučaju savetujemo ugovorne strane da potraže stručnu pomoć prilikom sastavljanja ugovora ukoliko same nisu tome vične.">
+<span class="uk-width-2-10"><i class="uk-icon-file-pdf-o"></i></span>
+<span class="uk-width-8-10">
+                    Kupoprodajni ugovor<br/>
+<small>Preuzmite kupoprodajni ugovor</small>
+</span>
+</a>
+</div>
+</div>
+<div class="js-contract-dialog uk-hidden">
+<p>Ukoliko želiš da ti automatski povučemo podatke iz oglasa u kupoprodajni ugovor, odaberi neku od sledećih
+            opcija</p>
+<p>
+<a class="js_contract-option stampaj_kupoprodajni_ugovor" href="/ClassifiedDetails/contract/22313727/Kupac" onclick="ga('send', 'event', 'Stampaj kupoprodajni ugovor', 'neulogovan', 'Kupac');" target="_blank">
+                Kupujem vozilo</a>
+</p>
+<p>
+<a class="js_contract-option stampaj_kupoprodajni_ugovor" href="/ClassifiedDetails/contract/22313727/Prodavac" onclick="ga('send', 'event', 'Stampaj kupoprodajni ugovor', 'neulogovan', 'Prodavac');" target="_blank">
+                Prodajem vozilo
+            </a>
+</p>
+</div>
+<div style="max-width: 300px; margin: auto">
+<div class="uk-button side-useful-links uk-margin-top uk-width-1-1">
+<a class="uk-grid js_ga-event kako_da_vas_ne_prevare" data-action="click" data-category="Oglas" data-label="Oglas - Kako da vas ne prevare" href="/bezbedna-kupovina/">
+<span class="uk-width-2-10" style="display:flex; align-items: center; justify-content: center;"><i class="uk-icon-user-secret"></i></span>
+<span class="uk-width-8-10">
+										Kako da vas ne prevare?<br/>
+<small>Kako da se zaštiti od moguće prevare i prevaranata</small>
+</span>
+</a>
+</div>
+</div>
+<div class="classified-articles uk-hidden-small">
+<section class="uk-width-1-1 uk-margin-bottom uk-margin-top">
+<h2 style="font-weight: 700;">Saveti</h2>
+<div class="uk-grid">
+<div class="uk-width-1-1 uk-margin-bottom">
+<div class="uk-grid">
+<div class="uk-width-1-3">
+<a href="/auto-vesti/bezbedna-kupovina/kako-prevaranti-prodaju-tudj-automobil-i-kako-da-prepoznate-sumnjiv-oglas.php">
+<picture>
+<source media="(max-width: 320px)" srcset="https://www.polovniautomobili.com/portal/cache/cms_main_image_600/portal/Bezbedna_kupovina/2016_07/Novi_prevaranti/01.jpg"/>
+<source media="(max-width: 425px)" srcset="https://www.polovniautomobili.com/portal/cache/cms_main_image_600/portal/Bezbedna_kupovina/2016_07/Novi_prevaranti/01.jpg"/>
+<source media="(max-width: 959px)" srcset="https://www.polovniautomobili.com/portal/cache/cms_main_image_100/portal/Bezbedna_kupovina/2016_07/Novi_prevaranti/01.jpg"/>
+<source media="(min-width: 960px)" srcset="https://www.polovniautomobili.com/portal/cache/cms_main_image_100/portal/Bezbedna_kupovina/2016_07/Novi_prevaranti/01.jpg"/>
+<img alt="Kako prevaranti „prodaju“ tuđ automobil i kako da prepoznate sumnjiv oglas?" class="uk-thumbnail lazy" data-src="https://www.polovniautomobili.com/portal/cache/cms_main_image_200/portal/Bezbedna_kupovina/2016_07/Novi_prevaranti/01.jpg" data-srcset="https://www.polovniautomobili.com/portal/cache/cms_main_image_200/portal/Bezbedna_kupovina/2016_07/Novi_prevaranti/01.jpg" src="" title="Kako prevaranti „prodaju“ tuđ automobil i kako da prepoznate sumnjiv oglas?"/>
+</picture>
+</a>
+</div>
+<div class="uk-width-2-3">
+<a class="newsLinkHomePage" href="/auto-vesti/bezbedna-kupovina/kako-prevaranti-prodaju-tudj-automobil-i-kako-da-prepoznate-sumnjiv-oglas.php">
+					                    Kako prevaranti „prodaju“ tuđ automobil i kako da prepoznate sumnjiv oglas?
+				                    </a>
+</div>
+</div>
+</div>
+<div class="uk-width-1-1 uk-margin-bottom">
+<div class="uk-grid">
+<div class="uk-width-1-3">
+<a href="/auto-vesti/saveti/saveti-za-mlade-koji-prvi-put-putuju-automobilom-na-more.php">
+<picture>
+<source media="(max-width: 320px)" srcset="https://www.polovniautomobili.com/portal/cache/cms_main_image_600/portal/Saveti/2017_05/putovanje/mladi-vozac.jpg"/>
+<source media="(max-width: 425px)" srcset="https://www.polovniautomobili.com/portal/cache/cms_main_image_600/portal/Saveti/2017_05/putovanje/mladi-vozac.jpg"/>
+<source media="(max-width: 959px)" srcset="https://www.polovniautomobili.com/portal/cache/cms_main_image_100/portal/Saveti/2017_05/putovanje/mladi-vozac.jpg"/>
+<source media="(min-width: 960px)" srcset="https://www.polovniautomobili.com/portal/cache/cms_main_image_100/portal/Saveti/2017_05/putovanje/mladi-vozac.jpg"/>
+<img alt="Saveti za mlade koji prvi put putuju automobilom na more" class="uk-thumbnail lazy" data-src="https://www.polovniautomobili.com/portal/cache/cms_main_image_200/portal/Saveti/2017_05/putovanje/mladi-vozac.jpg" data-srcset="https://www.polovniautomobili.com/portal/cache/cms_main_image_200/portal/Saveti/2017_05/putovanje/mladi-vozac.jpg" src="" title="Saveti za mlade koji prvi put putuju automobilom na more"/>
+</picture>
+</a>
+</div>
+<div class="uk-width-2-3">
+<a class="newsLinkHomePage" href="/auto-vesti/saveti/saveti-za-mlade-koji-prvi-put-putuju-automobilom-na-more.php">
+					                    Saveti za mlade koji prvi put putuju automobilom na more
+				                    </a>
+</div>
+</div>
+</div>
+<div class="uk-width-1-1 uk-margin-bottom">
+<div class="uk-grid">
+<div class="uk-width-1-3">
+<a href="/auto-vesti/saveti/elektricni-automobili-u-srbiji-da-li-smo-spremni.php">
+<picture>
+<source media="(max-width: 320px)" srcset="https://www.polovniautomobili.com/portal/cache/cms_main_image_600/portal/Saveti/2017_08/elektro/1_e-Golf_punjenje.jpg"/>
+<source media="(max-width: 425px)" srcset="https://www.polovniautomobili.com/portal/cache/cms_main_image_600/portal/Saveti/2017_08/elektro/1_e-Golf_punjenje.jpg"/>
+<source media="(max-width: 959px)" srcset="https://www.polovniautomobili.com/portal/cache/cms_main_image_100/portal/Saveti/2017_08/elektro/1_e-Golf_punjenje.jpg"/>
+<source media="(min-width: 960px)" srcset="https://www.polovniautomobili.com/portal/cache/cms_main_image_100/portal/Saveti/2017_08/elektro/1_e-Golf_punjenje.jpg"/>
+<img alt="Električni automobili u Srbiji – da li smo spremni?" class="uk-thumbnail lazy" data-src="https://www.polovniautomobili.com/portal/cache/cms_main_image_200/portal/Saveti/2017_08/elektro/1_e-Golf_punjenje.jpg" data-srcset="https://www.polovniautomobili.com/portal/cache/cms_main_image_200/portal/Saveti/2017_08/elektro/1_e-Golf_punjenje.jpg" src="" title="Električni automobili u Srbiji – da li smo spremni?"/>
+</picture>
+</a>
+</div>
+<div class="uk-width-2-3">
+<a class="newsLinkHomePage" href="/auto-vesti/saveti/elektricni-automobili-u-srbiji-da-li-smo-spremni.php">
+					                    Električni automobili u Srbiji – da li smo spremni?
+				                    </a>
+</div>
+</div>
+</div>
+<div class="uk-width-1-1 uk-margin-bottom">
+<div class="uk-grid">
+<div class="uk-width-1-3">
+<a href="/auto-vesti/saveti/kako-radi-upravljanje-na-svim-tockovima-i-zasto-se-koristi.php">
+<picture>
+<source media="(max-width: 320px)" srcset="https://www.polovniautomobili.com/portal/cache/cms_main_image_600/portal/Saveti/2017_02/4ws/1_skretanje_svim_tockovima.jpg"/>
+<source media="(max-width: 425px)" srcset="https://www.polovniautomobili.com/portal/cache/cms_main_image_600/portal/Saveti/2017_02/4ws/1_skretanje_svim_tockovima.jpg"/>
+<source media="(max-width: 959px)" srcset="https://www.polovniautomobili.com/portal/cache/cms_main_image_100/portal/Saveti/2017_02/4ws/1_skretanje_svim_tockovima.jpg"/>
+<source media="(min-width: 960px)" srcset="https://www.polovniautomobili.com/portal/cache/cms_main_image_100/portal/Saveti/2017_02/4ws/1_skretanje_svim_tockovima.jpg"/>
+<img alt="Kako radi upravljanje na svim točkovima i zašto se koristi?" class="uk-thumbnail lazy" data-src="https://www.polovniautomobili.com/portal/cache/cms_main_image_200/portal/Saveti/2017_02/4ws/1_skretanje_svim_tockovima.jpg" data-srcset="https://www.polovniautomobili.com/portal/cache/cms_main_image_200/portal/Saveti/2017_02/4ws/1_skretanje_svim_tockovima.jpg" src="" title="Kako radi upravljanje na svim točkovima i zašto se koristi?"/>
+</picture>
+</a>
+</div>
+<div class="uk-width-2-3">
+<a class="newsLinkHomePage" href="/auto-vesti/saveti/kako-radi-upravljanje-na-svim-tockovima-i-zasto-se-koristi.php">
+					                    Kako radi upravljanje na svim točkovima i zašto se koristi?
+				                    </a>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div class="uk-text-center uk-margin-bottom" data-uk-sticky="{boundary:true, top:85}" style="width: 300px; margin:auto;">
+<small>Reklama</small>
+<br/>
+<div id="PA_DESKTOP_OGLAS_Scroll_300x600">
+<script>
+		googletag.cmd.push(function() { googletag.display('PA_DESKTOP_OGLAS_Scroll_300x600'); });
+	</script>
+</div>
+</div>
+</aside>
+</div>
+<script async="" defer="" src="//maps.googleapis.com/maps/api/js?key=AIzaSyDIhQpQ9mwno8u0F47p50gJQHZ5rKn4Izc" type="text/javascript"></script>
+</div>
+<div class="scrollContentTitleHidden uk-hidden">
+<div style="margin-right: 23px; display: inline;">
+			Audi A4 2.0 TDI S Line
+							<small>
+					2008. godište
+				</small>
+			 |
+
+												9.500 €
+														</div>
+<div style="display: inline-block; position: relative;">
+<a href="#credit-calculator-holder" style="line-height: 36px; position: relative; bottom: 2px;"><img class="credit-calculator-icon calculate-credit-header" src="/bundles/site/images/calculator-icon-green.svg" style="width: 14px; margin-right: 6px;"/><span class="calculate-credit-header" style="font-size: 14px; color: #82b638; vertical-align: middle;">Izračunaj ratu keš kredita</span></a>
+</div>
+</div>
+</div>
+<!-- Modal phone to seller -->
+<div class="uk-modal" id="call-to-seller">
+<div class="uk-modal-dialog">
+<a class="uk-modal-close uk-close"></a>
+<div class="uk-form">
+<fieldset>
+<legend>Pozovi prodavca</legend>
+<div class="uk-form-row">
+<div class="uk-width-1-1 position-relative uk-text-large">
+							Mobilni 1: <a class="js-click-phone" href="tel:0607575331">0607575331</a>
+</div>
+</div>
+<br/>
+<button class="paGrayButtonSecundary uk-button-large uk-modal-close">Zatvori</button>
+</fieldset>
+</div>
+</div>
+</div>
+<!-- Samo za dio -->
+<div class="footer">
+<div class="uk-container uk-container-center">
+<footer>
+<div class="uk-grid">
+<div class="uk-width-1-1 uk-margin-top">
+<div class="uk-grid">
+<section class="uk-width-medium-5-10 uk-width-1-1 uk-margin-top">
+<h3>
+<a href="/najtrazeniji-modeli/">Najtraženiji modeli</a>
+</h3>
+<div class="uk-grid">
+<div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-1-2 uk-margin-small-bottom">
+<a class="uk-button btn-model uk-width-1-1 footer-brand uk-padding-remove box-shadow-remove" href="/auto-oglasi/audi/a4" rel="tag">Audi A4</a>
+</div>
+<div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-1-2 uk-margin-small-bottom">
+<a class="uk-button btn-model uk-width-1-1 footer-brand uk-padding-remove box-shadow-remove" href="/auto-oglasi/audi/a6" rel="tag">Audi A6</a>
+</div>
+<div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-1-2 uk-margin-small-bottom">
+<a class="uk-button btn-model uk-width-1-1 footer-brand uk-padding-remove box-shadow-remove" href="/auto-oglasi/volkswagen/golf-5" rel="tag">Volkswagen Golf 5</a>
+</div>
+<div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-1-2 uk-margin-small-bottom">
+<a class="uk-button btn-model uk-width-1-1 footer-brand uk-padding-remove box-shadow-remove" href="/auto-oglasi/audi/a3" rel="tag">Audi A3</a>
+</div>
+<div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-1-2 uk-margin-small-bottom">
+<a class="uk-button btn-model uk-width-1-1 footer-brand uk-padding-remove box-shadow-remove" href="/auto-oglasi/skoda/octavia" rel="tag">Škoda Octavia</a>
+</div>
+<div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-1-2 uk-margin-small-bottom">
+<a class="uk-button btn-model uk-width-1-1 footer-brand uk-padding-remove box-shadow-remove" href="/auto-oglasi/bmw/serija-3" rel="tag">BMW Serija 3</a>
+</div>
+<div class="uk-hidden-small uk-width-large-1-3 uk-width-medium-1-2 uk-width-1-2 uk-margin-small-bottom">
+<a class="uk-button btn-model uk-width-1-1 footer-brand uk-padding-remove box-shadow-remove" href="/auto-oglasi/volkswagen/golf-6" rel="tag">Volkswagen Golf 6</a>
+</div>
+</div>
+</section>
+<section class="uk-width-medium-3-10 uk-width-1-1 uk-margin-top">
+<div class="footerLinkAjustment">
+<h3>Brzi linkovi</h3>
+<ul class="fastFooterLinks uk-list" style="margin-top: -15px;">
+<li>
+<a class="js_ga-event" data-action="click" data-category="Footer" data-label="Procena vrednosti" href="/utvrdjivanje-trzisne-vrednosti-vozila">Procena vozila</a>
+</li>
+<li>
+<a href="/sigurna-kupovina-polovnih-automobila-bez-prevare/">Sigurna kupovina polovnih automobila bez prevare</a>
+</li>
+<li>
+<a class="js_ga-event" data-action="click" data-category="Footer" data-label="Oglasi na Email" href="/oglasi-na-mail">Oglasi na Email</a>
+</li>
+<li>
+<a href="/knjiga-utisaka">Knjiga utisaka</a>
+</li>
+<li>
+<a href="/prednosti-oglasavanja-na-polovniautomobili">Prednosti oglašavanja</a>
+</li>
+<li>
+<a class="js_ga-event" data-action="click" data-category="Footer" data-label="Česta pitanja u footeru" href="https://polovniautomobilihelp.zendesk.com/hc/sr-me" onclick='ga("send", "event", "ZenDesk", "Click", "Link česta pitanja u footer-u")' rel="noopener" target="_blank">Česta pitanja</a>
+</li>
+<li>
+<a href="https://www.polovniautomobili.com/docs/MediaKit2023Polovniautomobili.pdf" rel="noopener" target="_blank">Digitalno oglašavanje</a>
+</li>
+<li>
+<a href="/o-nama">O nama</a>
+</li>
+<li>
+<a href="/uslovi-koriscenja">Uslovi korišćenja</a>
+</li>
+<li>
+<a href="/obavestenje-o-privatnosti">Obaveštenje o privatnosti</a>
+</li>
+<li>
+<a href="/pruzate-auto-usluge">Pružaš auto usluge </a>
+</li>
+<li>
+<a href="/mobilne-aplikacije">Mobilne aplikacije</a>
+</li>
+<li>
+<a href="/prijatelji-sajta">Prijatelji sajta</a>
+</li>
+</ul>
+</div>
+</section>
+<section class="uk-width-medium-2-10 uk-width-1-1 uk-margin-top">
+<section>
+<h3>Kontakt redakcije sajta</h3>
+<div class="uk-text-center-small">
+<a class="contactUs" href="/kontakt">Kontaktiraj nas</a>
+</div>
+</section>
+<style>
+	.social-share-icons a {
+		display: inline-block;
+		margin: 5px;
+	}
+	.social-share-icons a i {
+		color: #9f9f9f;
+	}
+</style>
+<section class="uk-margin-top">
+<p class="social-share-icons" style="margin: 25px 0px !important;">
+<a href="https://www.youtube.com/user/polovniautomobili" rel="noopener" target="_blank" title="You Tube Polovniautomobili.com"><i class="uk-icon uk-icon-youtube-play uk-icon-small"></i></a>
+<a href="https://www.instagram.com/polovnjaci" rel="noopener" target="_blank" title="Instagram Polovniautomobili.com"><i class="uk-icon uk-icon-instagram uk-icon-small"></i></a>
+<a href="https://twitter.com/PolovnaVozila" rel="noopener" target="_blank" title="Twitter Polovniautomobili.com"><i class="uk-icon uk-icon-twitter uk-icon-small"></i></a>
+<a href="https://www.facebook.com/polovniautomobili" rel="noopener" target="_blank" title="Facebook Polovniautomobili.com"><i class="uk-icon uk-icon-facebook-official uk-icon-small"></i></a>
+<a href="https://www.linkedin.com/company/polovni-automobili" rel="noopener" target="_blank" title="Linkedin Polovniautomobili.com"><i class="uk-icon uk-icon-linkedin uk-icon-small"></i></a>
+</p>
+</section> <div class="uk-margin uk-margin-top uk-margin-bottom">
+<div class="uk-grid uk-margin-small-top">
+<div class="uk-width-1-1 uk-margin-top uk-text-center-small">
+<p>
+<a class="js_ga-event" data-action="click" data-category="Footer" data-label="Google Play" href="https://play.google.com/store/apps/details?id=com.infostud.android.pa&amp;hl=sr&amp;utm_source=sajt-polovni-automobili-footer&amp;utm_campaign=footer-badge&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" rel="noopener" target="_blank" title="Google Play">
+<img alt="Google Play" class="lazy" data-src="/bundles/site/images/app-stores/google-play.png" data-srcset="/bundles/site/images/app-stores/google-play.png" src=""/>
+</a>
+</p>
+<p>
+<a class="js_ga-event" data-action="click" data-category="Footer" data-label="App Store" href="https://itunes.apple.com/us/app/polovniautomobili/id878545555?mt=8" rel="noopener" target="_blank" title="App Store">
+<img alt="App Store" class="lazy" data-src="/bundles/site/images/app-stores/app-store.png" data-srcset="/bundles/site/images/app-stores/app-store.png" src=""/>
+</a>
+</p>
+<p>
+<a class="js_ga-event" data-action="click" data-category="Footer" data-label="HUAWEI AppGallery" href="https://appgallery7.huawei.com/#/app/C101395803" rel="noopener" target="_blank" title="HUAWEI AppGallery">
+<img alt="HUAWEI AppGallery" class="lazy" data-src="/bundles/site/images/app-stores/huawei-store.png" data-srcset="/bundles/site/images/app-stores/huawei-store.png" src=""/>
+</a>
+</p>
+</div>
+</div>
+</div>
+</section>
+</div>
+<hr/>
+<div class="uk-width-1-1">
+<div class="uk-grid">
+<style>
+								.baseBottomText, .baseBottomText a {
+									color: #9f9f9f;
+								}
+							</style>
+<div class="uk-width-medium-1-1 uk-width-1-1 baseBottomText">
+<div class="footer-logo-holder">
+<div class="first-row logo-box-row">
+<a href="https://inspiragrupa.com/" target="_blank">
+<img alt="inspira logo" class="inspira-logo" src="/bundles/site/images/footer/inspira.svg">
+</img></a>
+</div>
+<hr class="logo-divider" style="margin-top: 0;"/>
+<div class="individual-brands">
+<div class="second-row logo-box-row">
+<div class="infostud-main-logo">
+<a href="https://www.infostud.com/" target="_blank">
+<img alt="infostud logo" class="infostud-logo" src="/bundles/site/images/footer/infostud/infostud.svg">
+</img></a>
+</div>
+<div class="infostud-projects">
+<a href="https://poslovi.infostud.com" target="_blank">
+<img alt="poslovi infostud logo" src="/bundles/site/images/footer/infostud/poslovi_infostud.svg">
+</img></a>
+<a href="https://www.startuj.com" target="_blank">
+<img alt="startuj logo" src="/bundles/site/images/footer/infostud/startuj.svg">
+</img></a>
+<a href="https://www.hrlab.rs" target="_blank">
+<img alt="hrlab logo" class="hrlab-logo" src="/bundles/site/images/footer/infostud/hrlab.svg">
+</img></a>
+<a href="https://www.helloworld.rs/" target="_blank">
+<img alt="hello world logo" class="hello-world-logo" src="/bundles/site/images/footer/infostud/helloworld.svg">
+</img></a>
+</div>
+</div>
+<hr class="logo-divider"/>
+<div class="third-row logo-box-row">
+<div class="brand-row-1">
+<a style="cursor: default;">
+<img alt="polovni automobili logo" src="/bundles/site/images/footer/polovniautomobili.svg">
+</img></a>
+<a href="https://www.4zida.rs/" target="_blank">
+<img alt="4 zida logo" class="cetiri-zida-logo" src="/bundles/site/images/footer/4zida.svg">
+</img></a>
+<a href="https://www.internet-prodaja-guma.com" target="_blank">
+<img alt="internet prodaja guma logo" class="ipg-logo" src="/bundles/site/images/footer/ipg.svg">
+</img></a>
+</div>
+<div class="brand-row-2">
+<a href="https://www.osiguranik.com" target="_blank">
+<img alt="osiguranik logo" class="osiguranik-logo" src="/bundles/site/images/footer/osiguranik.svg">
+</img></a>
+<a href="https://www.autohub.rs/" target="_blank">
+<img alt="autohub logo" src="/bundles/site/images/footer/autohub.svg">
+</img></a>
+<a href="https://www.prodajadelova.rs/" target="_blank">
+<img alt="prodaja delova logo" class="prodajadelova-logo" src="/bundles/site/images/footer/prodaja-delova-novo.svg">
+</img></a>
+</div>
+<div class="brand-row-3">
+<a href="https://www.mojagaraza.rs/" target="_blank">
+<img alt="moja garaza logo" src="/bundles/site/images/footer/mojagaraza.svg">
+</img></a>
+<a href="https://www.inspirahub.rs/" target="_blank">
+<img alt="inspirahub logo" src="/bundles/site/images/footer/inspirahub.svg">
+</img></a>
+</div>
+</div>
+<div class="third-row-desktop logo-box-row">
+<div class="brand-row-1">
+<a style="cursor: default;">
+<img alt="polovni automobili logo" src="/bundles/site/images/footer/polovniautomobili.svg">
+</img></a>
+<a href="https://www.4zida.rs/" target="_blank">
+<img alt="4 zida logo" src="/bundles/site/images/footer/4zida.svg">
+</img></a>
+<a href="https://www.internet-prodaja-guma.com" target="_blank">
+<img alt="internet prodaja guma logo" src="/bundles/site/images/footer/ipg.svg" style="width: 85px;">
+</img></a>
+<a href="https://www.osiguranik.com" target="_blank">
+<img alt="osiguranik logo" src="/bundles/site/images/footer/osiguranik.svg">
+</img></a>
+</div>
+<div class="brand-row-2">
+<a href="https://www.autohub.rs/" target="_blank">
+<img alt="autohub logo" src="/bundles/site/images/footer/autohub.svg">
+</img></a>
+<a href="https://www.prodajadelova.rs/" target="_blank">
+<img alt="prodaja delova logo" src="/bundles/site/images/footer/prodaja-delova-novo.svg" style="width: 120px;">
+</img></a>
+<a href="https://www.mojagaraza.rs/" target="_blank">
+<img alt="moja garaza logo" src="/bundles/site/images/footer/mojagaraza.svg">
+</img></a>
+<a href="https://www.inspirahub.rs/" target="_blank">
+<img alt="inspirahub logo" src="/bundles/site/images/footer/inspirahub.svg">
+</img></a>
+</div>
+</div>
+</div>
+</div>
+<p class="uk-text-center uk-text-small" style="margin-bottom: 15px;">Sadržaj sajta polovniautomobili.com je vlasništvo privrednog društva Polovni automobili doo Subotica (dalje: Društvo). Zabranjeno je njegovo preuzimanje bez dozvole Društva, zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Sajt Polovni Automobili je deo <a href="https://inspiragrupa.com/">Inspira grupe</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<!-- CATEGORIES TABS START -->
+<div class="categories-tabs uk-hidden-large">
+<div class="uk-grid">
+<div class="sub-categories uk-width-6-10"></div>
+<div class="sub-categories uk-width-6-10 sub-cat-parts-holder">
+<div class="sub-cat-holder">
+<a class="" href="/delovi-i-oprema">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-26"></span>
+</span>
+<span class="table-cell text-fix">Auto delovi</span>
+</span>
+</a>
+<a class="" href="/delovi-i-oprema/automobili/auto-oprema">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-26"></span>
+</span>
+<span class="table-cell text-fix">Auto oprema</span>
+</span>
+</a>
+<a class="" href="/delovi-i-oprema/gume">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-gume-za-automobile" style="font-size: 1.5em;"></span>
+</span>
+<span class="table-cell text-fix">Gume</span>
+</span>
+</a>
+<a class="" href="/delovi-i-oprema/automobili/ratkapne-i-felne">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-felne-i-ratkapne" style="font-size: 1.5em;"></span>
+</span>
+<span class="table-cell text-fix">Felne i ratkapne</span>
+</span>
+</a>
+<a class="" href="/delovi-i-oprema/motori/moto-delovi-i-oprema">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-29" style="font-size: 1.5em;"></span>
+</span>
+<span class="table-cell text-fix">Motori</span>
+</span>
+</a>
+<a class="" href="/delovi-i-oprema/delovi-i-oprema-za-transportna-vozila">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-truck" style="font-size: 1.5em;"></span>
+</span>
+<span class="table-cell text-fix">Transportna vozila</span>
+</span>
+</a>
+<a class="" href="/delovi-i-oprema/delovi-za-poljoprivredne-masine">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5000"></span>
+</span>
+<span class="table-cell text-fix">Poljoprivredne mašine</span>
+</span>
+</a>
+<a class="" href="/delovi-i-oprema/radne-masine/delovi">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-33" style="font-size: 1.5em;"></span>
+</span>
+<span class="table-cell text-fix">Radne mašine</span>
+</span>
+</a>
+<a class="" href="/delovi-i-oprema/brodovi-camci-delovi">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-3383"></span>
+</span>
+<span class="table-cell text-fix">Plovila</span>
+</span>
+</a>
+<a class="" href="/delovi-i-oprema/delovi-za-bicikle">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-237" style="font-size: 1.5em;"></span>
+</span>
+<span class="table-cell text-fix">Bicikli</span>
+</span>
+</a>
+</div>
+</div>
+<div class="sub-categories uk-width-6-10 sub-cat-truks-holder">
+<div class="sub-cat-holder">
+<a class="" href="/kombi-i-laka-dostavna-vozila">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-3360"></span>
+</span>
+<span class="table-cell text-fix">Kombi i laka dostavna vozila</span>
+</span>
+</a>
+<a class="" href="/kamioni-do-7-5t">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-2647"></span>
+</span>
+<span class="table-cell text-fix">Kamioni do 7.5t</span>
+</span>
+</a>
+<a class="" href="/kamioni-preko-7-5t">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-2648"></span>
+</span>
+<span class="table-cell text-fix">Kamioni preko 7.5t</span>
+</span>
+</a>
+<a class="" href="/prikolice-poluprikolice">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-34"></span>
+</span>
+<span class="table-cell text-fix">Prikolice i poluprikolice</span>
+</span>
+</a>
+<a class="" href="/autobusi">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-2646"></span>
+</span>
+<span class="table-cell text-fix">Autobusi</span>
+</span>
+</a>
+<a class="" href="/kamperi">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-2241"></span>
+</span>
+<span class="table-cell text-fix">Kamperi</span>
+</span>
+</a>
+</div>
+</div>
+<div class="sub-categories uk-width-6-10 sub-cat-tractor-holder">
+<div class="sub-cat-holder">
+<a class="" href="/traktori">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5000"></span>
+</span>
+<span class="table-cell text-fix">Traktori</span>
+</span>
+</a>
+<a class="" href="/kombajni">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5001"></span>
+</span>
+<span class="table-cell text-fix">Kombajni</span>
+</span>
+</a>
+<a class="" href="/prikljucne-masine">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5002"></span>
+</span>
+<span class="table-cell text-fix">Priključne mašine</span>
+</span>
+</a>
+<a class="" href="/prikolice">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5003"></span>
+</span>
+<span class="table-cell text-fix">Prikolice</span>
+</span>
+</a>
+<a class="" href="/masine-alati">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5004"></span>
+</span>
+<span class="table-cell text-fix">Mašine i alati</span>
+</span>
+</a>
+<div style="
+						    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#7db9e8+0,7db9e8+100&amp;0+0,0.4+100 */
+							background: -moz-linear-gradient(top,  rgba(125,185,232,0) 0%, rgba(125,185,232,0.4) 100%); /* FF3.6-15 */
+							background: -webkit-linear-gradient(top,  rgba(125,185,232,0) 0%,rgba(125,185,232,0.4) 100%); /* Chrome10-25,Safari5.1-6 */
+							background: linear-gradient(to bottom,  rgba(125,185,232,0) 0%,rgba(125,185,232,0.4) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+							filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#007db9e8', endColorstr='#667db9e8',GradientType=0 ); /* IE6-9 */
+							box-shadow: 0px 5px 4px 0px #ccc;
+						    margin-left: -10px;
+						    margin-right: -10px;
+						    padding: 10px;
+						    margin-top: 0px;">
+<h3 style="color: #093d8e">Sajamska ponuda</h3>
+<a href="/online-sajam-traktori">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5000"></span>
+</span>
+<span class="table-cell text-fix">Traktori</span>
+</span>
+</a>
+<a href="/online-sajam-kombajni">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5001"></span>
+</span>
+<span class="table-cell text-fix">Kombajni</span>
+</span>
+</a>
+<a href="/online-sajam-prikljucne-masine">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5002"></span>
+</span>
+<span class="table-cell text-fix">Priključne mašine</span>
+</span>
+</a>
+<a href="/online-sajam-prikolice">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5003"></span>
+</span>
+<span class="table-cell text-fix">Prikolice</span>
+</span>
+</a>
+<a href="/online-sajam-masine-i-alati">
+<span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5004"></span>
+</span>
+<span class="table-cell text-fix">Mašine i alati</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="main-categories uk-width-4-10 uk-margin-remove uk-padding-remove">
+<div class="ttett" style="height: 470px; overflow-y: auto;">
+<a class="choose-category-mob" href="#" style="font-size: 1em; padding: 22px 0px;">Zatvori <i class="uk-icon-close uk-text-danger" style="font-size: 1.3em;vertical-align: bottom;"></i></a>
+<a class="sub-cat-parts" href="#">
+<span class="icon-cat-4200"></span>
+						Delovi i oprema
+					</a>
+<a class="active" href="/">
+<span class="icon-cat-26" style="font-size: 1.4em;"></span>
+						Putnička vozila
+					</a>
+<a href="/motori">
+<span class="icon-cat-29"></span>
+						Motori
+					</a>
+<a class="sub-cat-truks" href="#">
+<span class="icon-cat-truck"></span>
+						Transportna vozila
+					</a>
+<a class="sub-cat-tractor" href="#">
+<span class="icon-cat-5000"></span>
+						Poljoprivredne mašine
+					</a>
+<a href="/radne-masine">
+<span class="icon-cat-33"></span>
+						Radne mašine
+					</a>
+<a href="/plovila">
+<span class="icon-cat-3383" style="font-size: 1.4em;"></span>
+						Plovila
+					</a>
+<a href="/bicikli">
+<span class="icon-cat-237"></span>
+						Bicikli
+					</a>
+</div>
+</div>
+</div>
+</div>
+<!-- CATEGORIES TABS STOP -->
+<div class="jsGdprNoticeHolder js-cookie-message-placeholder" style="position: fixed; bottom:10px; left: 10px; right: 10px; z-index: 1000; display: none;">
+<div style="max-width: 1030px; margin: auto">
+<div class="uk-width-1-1">
+<div class="uk-panel uk-panel-box uk-panel-box-primary position-relative" style="border-radius: 5px; border: 1px solid;">
+<div class="uk-width-1-1">
+<div class="uk-grid">
+<div class="uk-width-medium-9-10 uk-width-1-1">
+<p style="padding-right:0px !important; text-transform: none;">
+									Sajt Polovniautomobili.com koristi cookie-je (kolačiće) da bi obezbedio dobro korisničko iskustvo, prikazao personalizovan sadržaj i reklame, i omogućio druge funkcionalnosti koje sajt ne bi mogao da obezbedi bez cookie-ja (kolačića). Daljim korišćenjem sajta prihvatate cookie-je (kolačiće).
+									Saznajte više o cookie-ima (kolačićima) <a href="/obavestenje-o-privatnosti/kolacici">ovde</a>.
+								</p>
+</div>
+<div class="uk-width-medium-1-10 uk-width-1-1 uk-text-left-medium uk-text-center-small uk-margin-top">
+<a class="paBlueButtonPrimary jsCloseGdprNotice js-accept-cookies" href="javascript:(void(0));">U redu</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="application/ld+json">
+		[
+		{
+		"@context":"https://schema.org","@type":"Car",
+		"url":" https://www.polovniautomobili.com/auto-oglasi/22313727/audi-a4-20-tdi-s-line ",
+		"image":" https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/9beb41578be7.jpg-800x600.jpg ",
+		"brand":" Audi ",
+		"model":" A4 ",
+		"manufacturer":" Audi ",
+		"productionDate":" 2008 ",
+		"fuelType":" Dizel ",
+		"bodyType":" Limuzina",
+		"vehicleEngine":" 105.00 KWT",
+		"mileageFromOdometer": "216.000 KMT",
+		"name":" Audi A4 2.0 TDI S Line "
+		}
+		]
+	</script>
+<script type="application/ld+json">
+		[
+					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/9beb41578be7-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/3da778d9e512-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/34ddc1be53e1-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/35629409d682-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/5f6a399b2174-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/47f5db747e82-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/93e737d8ef35-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/c3deb79b3188-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/38d11793483b-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/2fe653547c3b-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/08a1ecb9da56-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/6d1ea05011b2-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/8d4f71573f24-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/da5977c7d9a4-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/5c266d3fe6c1-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/bb7d149ff85e-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/7b727e6f0cca-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/584564eccd1f-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/0ebd4fc28367-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/85c5b9c177c1-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/fc7c2d929ab0-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/610034ee24b5-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/cab7362ae58f-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/96211bb069cd-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/320d1908aaff-800x600.jpg"},					{"@context":"https://schema.org","@type":"ImageObject","caption":"https://gcdn.polovniautomobili.com/user-images/thumbs/2231/22313727/b199dd13d5a5-800x600.jpg"}				]
+	</script>
+<style>
+			html, body, h1, h2, h3, h4 h5, h6 {
+				font-display: fallback;
+				font-family: 'Source Sans Pro', sans-serif;
+			}
+		</style>
+<script src="//cdnjs.cloudflare.com/ajax/libs/socket.io/1.4.8/socket.io.min.js"></script>
+<script src="/js/55de4f6.js?r12635"></script>
+<script src="/bundles/site/js/uikit/uikit.min.js?r12635"></script>
+<script>
+			$(function(){
+				PA.common.searchToggle();
+				PA.common.categoriesTabs();
+				// PA.common.wbAlign();
+				PA.common.megaMenu();
+				PA.common.gaAnalyticsEvents();
+				PA.common.closeTestMessage();
+				PA.common.toggleTestMessage();
+
+				var cookie = $.cookie('pa-cookie-message');
+				if(cookie === undefined) {
+					$('.js-cookie-message-placeholder').show();
+					}
+				$.cookie('pa-cookie-message', 'accepted', { path: '/', secure: true, expires: 365*100 });
+				$('.js-accept-cookies').on('click', function(){
+					$('.js-cookie-message-placeholder').animate({
+						opacity: 0,
+						height: 0,
+					}, 500, function () {
+						$('.js-cookie-message-placeholder').hide();
+					});
+				});
+
+				$( window ).resize(function() {
+					if ((screen.width > 960) || (screen.width < 1024)){
+						if(window.innerWidth > window.innerHeight){
+							if ($('.uk-offcanvas').is(":visible")) {
+								$( "#side-navigation-bar" ).trigger( "click" );
+							}
+						}
+					}
+				});
+
+				var cookieValueUmn = $.cookie('notice-14-02-2023');
+				if (typeof cookieValueUmn === 'undefined'){
+					$('.under-maintenance-notice').slideDown();
+					$('.close-maintenance-notice').on('click', function () {
+						$.cookie('notice-14-02-2023', 1, { path: '/', expires: 7 });
+						$('.under-maintenance-notice').slideUp();
+					});
+				}
+
+				PA.common.paSignature();
+
+				// Add class for measurement purpose
+				PA.common.addClasToGATrackedLinks();
+
+			});
+			// U lazy load idu obe skripte jer jedna podržava funkcionalnost u starijim browserima a druga u svim, ma da ova donja bolje radi
+			// Lazy load start
+			document.addEventListener("DOMContentLoaded", function() {
+				var lazyImages = [].slice.call(document.querySelectorAll("img.lazy"));
+				var active = false;
+
+				const lazyLoad = function() {
+					if (active === false) {
+						active = true;
+
+						setTimeout(function() {
+							lazyImages.forEach(function(lazyImage) {
+								if ((lazyImage.getBoundingClientRect().top <= window.innerHeight && lazyImage.getBoundingClientRect().bottom >= 0) && getComputedStyle(lazyImage).display !== "none") {
+									lazyImage.src = lazyImage.dataset.src;
+									lazyImage.srcset = lazyImage.dataset.srcset;
+									lazyImage.classList.remove("lazy");
+
+									lazyImages = lazyImages.filter(function(image) {
+										return image !== lazyImage;
+									});
+
+									if (lazyImages.length === 0) {
+										document.removeEventListener("scroll", lazyLoad);
+										window.removeEventListener("resize", lazyLoad);
+										window.removeEventListener("orientationchange", lazyLoad);
+									}
+								}
+							});
+
+							active = false;
+						}, 200);
+					}
+				};
+
+				document.addEventListener("scroll", lazyLoad);
+				window.addEventListener("resize", lazyLoad);
+				window.addEventListener("orientationchange", lazyLoad);
+			});
+			document.addEventListener("DOMContentLoaded", function() {
+				var lazyImages = [].slice.call(document.querySelectorAll("img.lazy"));
+
+				if ("IntersectionObserver" in window) {
+					var lazyImageObserver = new IntersectionObserver(function(entries, observer) {
+						entries.forEach(function(entry) {
+							if (entry.isIntersecting) {
+								var lazyImage = entry.target;
+								lazyImage.src = lazyImage.dataset.src;
+								lazyImage.srcset = lazyImage.dataset.srcset;
+								lazyImage.classList.remove("lazy");
+								lazyImageObserver.unobserve(lazyImage);
+							}
+						});
+					});
+
+					lazyImages.forEach(function(lazyImage) {
+						lazyImageObserver.observe(lazyImage);
+					});
+				} else {
+					// Possibly fall back to a more compatible method here
+				}
+			});
+
+			if ('serviceWorker' in navigator) {
+				window.addEventListener('load', function() {
+					navigator.serviceWorker.register('/sw.js').then(function(registration) {
+						// Registration was successful
+						console.log('ServiceWorker registration successful with scope: ', registration.scope);
+					}, function(err) {
+						// registration failed :(
+						console.log('ServiceWorker registration failed: ', err);
+					});
+				});
+			}
+
+		</script>
+<script type="application/ld+json">
+			[
+				{
+					"@context" : "https://schema.org",
+					"@type" : "WebSite",
+					"name": "Polovniautomobili.com",
+					"url" : "https://www.polovniautomobili.com"
+				},
+				{
+					"@context" : "https://schema.org",
+					"@type" : "Organization",
+					"url" : "https://www.polovniautomobili.com",
+					"legalName" : "Polovni automobili doo",
+					"contactPoint" : [{
+						"@type" : "ContactPoint",
+						"telephone" : "+381 24 415 56 12",
+						"contactType" : "customer service",
+						"areaServed" : "RS",
+						"email" : "kontakt@polovniautomobili.com"
+					}],
+					"logo" : "https://www.polovniautomobili.com/bundles/site/images/polovniautomobili-logo.svg",
+					"sameAs" : [
+						"https://www.facebook.com/polovniautomobili",
+						"https://twitter.com/PolovnaVozila",
+						"https://www.youtube.com/user/polovniautomobili",
+						"https://www.instagram.com/polovnjaci/"
+						],
+					"address": {
+						"@type": "PostalAddress",
+						"addressLocality": "Subotica, Serbia",
+						"postalCode": "24000",
+						"streetAddress": "Matije Korvina 17, sprat 4"
+					}
+				}
+			]
+		</script>
+<!-- FB JS SDK -->
+<div id="fb-root"></div>
+<script type="text/javascript">
+				$(document).ready(function() {
+					$.ajaxSetup({ cache: true });
+					$.getScript('//connect.facebook.net/sr_RS/sdk.js', function(){
+						FB.init({
+							appId: '127593208027',
+							version: 'v16.0'
+						});
+						FB.getLoginStatus(function(response) {
+							if (response.status === 'connected') {
+								FB.api('/me/picture',function(picture) {
+									if (picture.hasOwnProperty('data') && !picture.data.is_silhouette) {
+										$('<img>', {
+											src: picture.data.url,
+											'class': 'fb_picture uk-float-left',
+											width: 28,
+											height: 28
+										}).insertAfter( $('#fb-image-side-bar, #fb-image-top-bar') );
+									}
+								});
+							}
+						});
+					});
+				});
+			</script>
+<script src="https://www.gstatic.com/firebasejs/4.4.0/firebase.js"></script>
+<script src="https://www.gstatic.com/firebasejs/4.4.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/4.4.0/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/4.4.0/firebase-database.js"></script>
+<script src="https://www.gstatic.com/firebasejs/4.4.0/firebase-messaging.js"></script>
+<script>
+				// Initialize Firebase
+				var config = {
+					apiKey: "AIzaSyA64EFLZr97ZcbrBy0rbe1KOqymCkrwxOE",
+					authDomain: "push-notifications-pa-69c98.firebaseapp.com",
+					databaseURL: "https://push-notifications-pa-69c98.firebaseio.com",
+					projectId: "push-notifications-pa-69c98",
+					storageBucket: "push-notifications-pa-69c98.appspot.com",
+					messagingSenderId: "42856224115"
+				};
+
+				firebase.initializeApp(config);
+				try {
+					const messaging = firebase.messaging();
+
+					if (Notification.permission === "granted")
+						{
+						messaging.onMessage(function (payload) {
+							var message = '<a href="' + payload.notification.click_action + '">' + payload.notification.title + '<span class="title"> ' + payload.notification.body + ' </span>';
+							if (payload.notification.click_action != 'undefined' && payload.notification.click_action != '') {
+								message += '<br>Klikni ovde da vidiš</a>'
+							}
+							UIkit.notify({
+								message: message,
+								status: 'info',
+								timeout: 10000,
+								pos: 'bottom-right'
+							});
+						});
+						}
+					}
+				catch (error) // Maybe firebase messaging is not supported on this browser
+					{}
+			</script>
+<script src="/bundles/site/js/uikit/components/notify.js?r12635"></script>
+<script src="/bundles/site/js/uikit/components/sticky.js?r12635"></script>
+<script>
+					let stickyBannerZone = 'stickyBannerZone';
+					let bannerPlaceholder = $('.bannerPlaceholder');
+					let isBannerSticky = false;
+					let isBannerReachedTitleOnce = false;
+					let banner = $("#PA_DESKTOP_970x250");
+					let leaderboardBannerHolder = $('.leaderboard-banner-holder');
+					let titlePosition = 435;
+
+					function setBannerCookie(){
+						if(!$.cookie(stickyBannerZone))
+							{
+							let expDate = new Date();
+							expDate.setTime(expDate.getTime() + (6 * 3600 * 1000));
+							$.cookie(stickyBannerZone, 1, {expires: expDate, path:'/' });
+							}
+					}
+
+					function isBannerNotStickyAndNotReachedTitleOnce(){
+						return !isBannerSticky && !isBannerReachedTitleOnce && banner[0].getBoundingClientRect().top <= 0;
+					}
+
+					function isBannerStickyAndNotReachedTitleOnce(){
+						return isBannerSticky && !isBannerReachedTitleOnce && bannerPlaceholder[0].getBoundingClientRect().top > 0;
+					}
+
+					function isBannerReachedTitle(){
+						return isBannerSticky && $(this).scrollTop() > titlePosition;
+					}
+
+					function makeBannerSticky(){
+						bannerPlaceholder.css('position', 'relative');
+						banner.css('position', 'fixed');
+						banner.css('top', '0');
+						banner.css('z-index', '1');
+						leaderboardBannerHolder.css('display', 'flex');
+						leaderboardBannerHolder.css('flex-direction', 'row');
+						leaderboardBannerHolder.css('justify-content', 'center');
+						titlePosition = 355 + $(this).scrollTop();//250 + 185 - 80
+					}
+
+					function makeBannerNotSticky(){
+						bannerPlaceholder.css('position', 'fixed');
+						banner.css('position', 'relative');
+					}
+					if (!$.cookie(stickyBannerZone)) {
+						$(window).scroll(function (){
+							if ($("#top_ad_banner").css("display") === "none")
+								{
+								return;
+								}
+
+							if (isBannerStickyAndNotReachedTitleOnce())
+								{
+								makeBannerNotSticky();
+								isBannerSticky = false;
+								}
+
+							else if (isBannerNotStickyAndNotReachedTitleOnce() && !$.cookie(stickyBannerZone) )
+								{
+								makeBannerSticky();
+								isBannerSticky = true;
+								}
+
+							if (isBannerReachedTitle())
+								{
+								makeBannerNotSticky();
+								setBannerCookie();
+								isBannerReachedTitleOnce = true;
+								}
+						});
+					}
+				</script>
+<script src="/bundles/site/js/Plugin/lightslider.js?r12635"></script>
+<script src="/bundles/site/js/Plugin/jquery.mousewheel.min.js?r12635"></script>
+<script src="/bundles/site/js/Plugin/timeago/jquery.timeago-1.4.1.min.js?r12635"></script>
+<script src="/bundles/site/js/Plugin/imagesloaded.pkgd.min.js?r12635"></script>
+<script src="/bundles/site/js/Classified/ips.js?r12635" type="application/javascript"></script>
+<script src="/js/ac087f5.js?r12635"></script>
+<script src="/build/runtime.bc366e39.js?r12635"></script><script src="/build/0.cf60d32b.js?r12635"></script><script src="/build/8.92d1930b.js?r12635"></script><script src="/build/classified_details.f39dc342.js?r12635"></script>
+<script src="/build/6.28a0acbc.js?r12635"></script><script src="/build/raiffeisen_widget.1548155b.js?r12635"></script>
+<script>
+		PA.details.bindPriceOffer(22313727, $('#price-offer'), 'nsuz-61OVuRKdtPunsqckgCIg6W2To6e3zxZjR0Y1Cg');
+		PA.message.source = 'site';
+					PA.message.bindContactDialog(22313727, 'wss://socket.polovniautomobili.com:3100');
+				PA.details.bindShowNumbers();
+		PA.details.toggleMoreInfo();
+//		PA.details.loadImagesOnPageLoad(1);
+		PA.details.addToHistory(22313727, '2008  Audi A4 2.0 TDI S Line');
+		$('time').timeago();
+
+		$(function(){
+			
+					});
+
+				
+		$(document).scroll(function() {
+			if($(document).scrollTop() < $('.js_fixedContetLoad').offset().top) {
+				$('.scrollContent').fadeOut();
+			} else {
+				$('.scrollContent').fadeIn();
+			}
+			});
+
+
+			PA.details.isOnline('wss://socket.polovniautomobili.com:8180', 506772);
+		PA.details.socialProof('wss://socket.polovniautomobili.com:1440/22313727');
+				// PA.details.autoFormatCreditWidgetNumbers("#loan-deposit");
+		// PA.details.autoFormatCreditWidgetNumbers("#loan-amount");
+			</script>
+<script src="/js/2e42e2a.js?r12635"></script>
+<script type="application/javascript">
+		$(function(){
+			PA.SoGe.init( $('.societe-generale-bank-widget') );
+			PA.details.bindTabs(22313727);
+			PA.details.bindTabs2(22313727);
+		});
+	</script>
+<script>
+		$(function(){
+							PA.details.initGallery(26);
+				PA.details.setGalleryPosition();
+					})
+	</script>
+<script>
+</script>
+<div class="creditOverlay"></div>
+<script crossorigin="anonymous" data-cf-beacon='{"rayId":"80b8dd58ec955b0f","version":"2023.8.0","b":1,"token":"822a548727f346c19ee6a02dffb1bd37","si":100}' defer="" integrity="sha512-bjgnUKX4azu3dLTVtie9u6TKqgx29RBwfj3QXYt5EKfWM/9hPSAI/4qcV5NACjwAo8UtTeWefx6Zq5PHcMm7Tg==" src="https://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854"></script>
+</body>
+</html>

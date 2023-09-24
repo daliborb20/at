@@ -1,0 +1,207 @@
+<span class="profile-menu uk-grid uk-margin-remove">
+<a class="paOrangeButtonPrimary uk-width-1-1 uk-margin-bottom button-box-shadow-remove" href="/login" title="Uloguj se">Uloguj se <i class="uk-icon-user"></i></a><br/>
+<a class="uk-button button-facebook uk-width-1-1 button-box-shadow-remove" href="/connect/facebook">Prijavi se putem Facebook-a <i class="uk-icon-facebook-official"></i></a>
+<div class="uk-width-1-1 uk-margin-remove uk-padding-remove" style="margin-top: 5px !important; margin-bottom: 5px !important;">
+<div class="uk-grid uk-margin-remove uk-padding-remove">
+<div class="uk-width-4-10 uk-margin-remove uk-padding-remove"><hr style="margin: 10px 0px; border-top: 1px solid rgba(125, 125, 125, 0.51);"/></div>
+<div class="uk-width-2-10 uk-margin-remove uk-padding-remove uk-text-center">ili</div>
+<div class="uk-width-4-10 uk-margin-remove uk-padding-remove"><hr style="margin: 10px 0px; border-top: 1px solid rgba(125, 125, 125, 0.51);"/></div>
+</div>
+</div>
+<a class="uk-button button-register uk-width-1-1 button-box-shadow-remove" href="/registracija">Registruj se </a>
+</span>
+<span class="icon-add-clasified"></span><span id="fb-image-top-bar"></span><span>Moj profil</span><span class="icon-cat-26" style="font-size: 0.95em;"></span><span class="icon-cat-29" style="font-size: 1.2em;"></span><span class="icon-cat-truck"></span><span class="icon-cat-5000"></span><span class="icon-cat-33"></span><span class="icon-cat-3383" style="font-size: 1em;"></span><span class="icon-cat-237" style="font-size: 1.3em;"></span><span class="icon-top-prodavci" style="font-size: 5em; width: inherit; margin:0px 0px 5px 0px;"></span><span class="icon-karoserija-i-sasija"></span><span class="icon-elektronika_i_elektrika"></span><span class="icon-motor-i-delovi-motora"></span><span class="icon-oslanjanje-i-upravljanje"></span><span class="icon-enterijer"></span><span class="icon-transmisija-i-delovi"></span><span class="icon-izduvni_sistem"></span><span class="icon-klima_i_grejanje"></span><span class="icon-kocioni_sistem"></span><span class="icon-svetla_i_signalizacija"></span><span class="icon-cat-26" style="font-size: 0.9em;"></span><span class="icon-gume-za-automobile"></span><span class="icon-felne-i-ratkapne"></span><span class="icon-alati-za-servise"></span><span class="icon-cat-26" style="font-size: 0.9em;"></span><span class="icon-cat-5000"></span><span class="icon-cat-29" style="font-size: 1.2em;"></span><span class="icon-cat-truck"></span><span class="icon-cat-3360" style="font-size: 1.1em;"></span><span class="icon-gume-za-automobile"></span><span class="icon-delovi_na_klik_icon fix-3" style="font-size: 5em; margin: 10px 0;"></span><span class="icon-top-prodavci fix-5"></span><span class="icon-add-clasified" style="font-size: 5em; width: inherit; margin: 0px;"></span><span class="icon-prodajem_sopsteno_vozilo_icon" style="font-size: 5em; width: inherit; margin: 0px;"></span><span class="icon-celokupna-ponuda" style="font-size: 5em; width: inherit; margin: 0px;"></span><span class="icon-istaknite-oglas" style="font-size: 5em; width: inherit; margin: 0px;"></span><span class="sprite-images osiguranik-1"></span><span class="sprite-images osiguranik-3"></span><span class="sprite-images osiguranik-4"></span><span style="display: none">Osiguranik logo</span><span itemprop="name">Naslovna</span><span itemprop="name">Putnička vozila</span><span itemprop="name">Audi</span><span itemprop="name">A4</span><span itemprop="name">Limuzina</span><span itemprop="name">Dizel</span><span class="js-current-gallery-position">1</span><span class="classified-liked">1</span><span class="calculate-credit-under-gallery" style="vertical-align: bottom; color: #82b638; font-weight: bold;">Izračunaj ratu keš kredita</span><span class="classified-liked">1</span><span class="uk-hidden-small">Sadržaj sajta polovniautomobili.com</span><span class="generationTitle">Audi A4 (2004 - 2009)</span><span>Ponuda keš kredita</span><span class="amount">6.507,57 RSD</span><span>mesečna rata</span><span>Za zadate vrednosti ne postoji mesečna rata.</span><span>Iznos kredita</span><span>Period otplate</span><span class="left"><i class="icon-oglas_icon"></i> Oglas</span><span><i class="icon-omodelu_icon"></i> O modelu</span><span class="right"><i class="icon-utisci_icon"></i> Utisci</span><span class="priceClassified regularPriceColor" style=" padding-bottom: 0;">9.500 €</span><span class="header-text">Dodatni troškovi kupovine</span><span>
+													Mobilni: 0607575331
+												</span><span class="chosen-contact-number helper uk-width-1-1 paOrangeButtonTertiary">0607575331</span><span class="osiguranik-banner">
+<a href="https://www.osiguranik.com/" rel="noopener" target="_blank" title="Osiguranik.com">
+<img alt="Osiguranik.com" class="lazy" data-srcset="/bundles/site/images/osiguranik-logo.svg" src="" srcset="/bundles/site/images/osiguranik-logo.svg"/>
+</a>
+</span><span class="regOsTxt">Obračun je omogućen u saradnji sa <a class="orange-text js_ga-event" data-action="click" data-category="Oglas" data-label="Registracija vozila - RegOs link" href="http://www.regos.rs/?utm_source=polovniautomobili.com&amp;utm_medium=osiguranik_frame&amp;utm_campaign=pa_regos" rel="noopener" target="_blank">RegOs softverom</a></span><span class="regOsTxt">Prikazani podaci su informativnog karaktera.</span><span class="uk-width-2-10"><i class="uk-icon-file-pdf-o"></i></span><span class="uk-width-8-10">
+                    Kupoprodajni ugovor<br/>
+<small>Preuzmite kupoprodajni ugovor</small>
+</span><span class="uk-width-2-10" style="display:flex; align-items: center; justify-content: center;"><i class="uk-icon-user-secret"></i></span><span class="uk-width-8-10">
+										Kako da vas ne prevare?<br/>
+<small>Kako da se zaštiti od moguće prevare i prevaranata</small>
+</span><span class="calculate-credit-header" style="font-size: 14px; color: #82b638; vertical-align: middle;">Izračunaj ratu keš kredita</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-26"></span>
+</span>
+<span class="table-cell text-fix">Auto delovi</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-26"></span>
+</span><span class="icon-cat-26"></span><span class="table-cell text-fix">Auto delovi</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-26"></span>
+</span>
+<span class="table-cell text-fix">Auto oprema</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-26"></span>
+</span><span class="icon-cat-26"></span><span class="table-cell text-fix">Auto oprema</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-gume-za-automobile" style="font-size: 1.5em;"></span>
+</span>
+<span class="table-cell text-fix">Gume</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-gume-za-automobile" style="font-size: 1.5em;"></span>
+</span><span class="icon-gume-za-automobile" style="font-size: 1.5em;"></span><span class="table-cell text-fix">Gume</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-felne-i-ratkapne" style="font-size: 1.5em;"></span>
+</span>
+<span class="table-cell text-fix">Felne i ratkapne</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-felne-i-ratkapne" style="font-size: 1.5em;"></span>
+</span><span class="icon-felne-i-ratkapne" style="font-size: 1.5em;"></span><span class="table-cell text-fix">Felne i ratkapne</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-29" style="font-size: 1.5em;"></span>
+</span>
+<span class="table-cell text-fix">Motori</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-29" style="font-size: 1.5em;"></span>
+</span><span class="icon-cat-29" style="font-size: 1.5em;"></span><span class="table-cell text-fix">Motori</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-truck" style="font-size: 1.5em;"></span>
+</span>
+<span class="table-cell text-fix">Transportna vozila</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-truck" style="font-size: 1.5em;"></span>
+</span><span class="icon-cat-truck" style="font-size: 1.5em;"></span><span class="table-cell text-fix">Transportna vozila</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5000"></span>
+</span>
+<span class="table-cell text-fix">Poljoprivredne mašine</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-5000"></span>
+</span><span class="icon-cat-5000"></span><span class="table-cell text-fix">Poljoprivredne mašine</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-33" style="font-size: 1.5em;"></span>
+</span>
+<span class="table-cell text-fix">Radne mašine</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-33" style="font-size: 1.5em;"></span>
+</span><span class="icon-cat-33" style="font-size: 1.5em;"></span><span class="table-cell text-fix">Radne mašine</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-3383"></span>
+</span>
+<span class="table-cell text-fix">Plovila</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-3383"></span>
+</span><span class="icon-cat-3383"></span><span class="table-cell text-fix">Plovila</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-237" style="font-size: 1.5em;"></span>
+</span>
+<span class="table-cell text-fix">Bicikli</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-237" style="font-size: 1.5em;"></span>
+</span><span class="icon-cat-237" style="font-size: 1.5em;"></span><span class="table-cell text-fix">Bicikli</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-3360"></span>
+</span>
+<span class="table-cell text-fix">Kombi i laka dostavna vozila</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-3360"></span>
+</span><span class="icon-cat-3360"></span><span class="table-cell text-fix">Kombi i laka dostavna vozila</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-2647"></span>
+</span>
+<span class="table-cell text-fix">Kamioni do 7.5t</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-2647"></span>
+</span><span class="icon-cat-2647"></span><span class="table-cell text-fix">Kamioni do 7.5t</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-2648"></span>
+</span>
+<span class="table-cell text-fix">Kamioni preko 7.5t</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-2648"></span>
+</span><span class="icon-cat-2648"></span><span class="table-cell text-fix">Kamioni preko 7.5t</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-34"></span>
+</span>
+<span class="table-cell text-fix">Prikolice i poluprikolice</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-34"></span>
+</span><span class="icon-cat-34"></span><span class="table-cell text-fix">Prikolice i poluprikolice</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-2646"></span>
+</span>
+<span class="table-cell text-fix">Autobusi</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-2646"></span>
+</span><span class="icon-cat-2646"></span><span class="table-cell text-fix">Autobusi</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-2241"></span>
+</span>
+<span class="table-cell text-fix">Kamperi</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-2241"></span>
+</span><span class="icon-cat-2241"></span><span class="table-cell text-fix">Kamperi</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5000"></span>
+</span>
+<span class="table-cell text-fix">Traktori</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-5000"></span>
+</span><span class="icon-cat-5000"></span><span class="table-cell text-fix">Traktori</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5001"></span>
+</span>
+<span class="table-cell text-fix">Kombajni</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-5001"></span>
+</span><span class="icon-cat-5001"></span><span class="table-cell text-fix">Kombajni</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5002"></span>
+</span>
+<span class="table-cell text-fix">Priključne mašine</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-5002"></span>
+</span><span class="icon-cat-5002"></span><span class="table-cell text-fix">Priključne mašine</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5003"></span>
+</span>
+<span class="table-cell text-fix">Prikolice</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-5003"></span>
+</span><span class="icon-cat-5003"></span><span class="table-cell text-fix">Prikolice</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5004"></span>
+</span>
+<span class="table-cell text-fix">Mašine i alati</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-5004"></span>
+</span><span class="icon-cat-5004"></span><span class="table-cell text-fix">Mašine i alati</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5000"></span>
+</span>
+<span class="table-cell text-fix">Traktori</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-5000"></span>
+</span><span class="icon-cat-5000"></span><span class="table-cell text-fix">Traktori</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5001"></span>
+</span>
+<span class="table-cell text-fix">Kombajni</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-5001"></span>
+</span><span class="icon-cat-5001"></span><span class="table-cell text-fix">Kombajni</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5002"></span>
+</span>
+<span class="table-cell text-fix">Priključne mašine</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-5002"></span>
+</span><span class="icon-cat-5002"></span><span class="table-cell text-fix">Priključne mašine</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5003"></span>
+</span>
+<span class="table-cell text-fix">Prikolice</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-5003"></span>
+</span><span class="icon-cat-5003"></span><span class="table-cell text-fix">Prikolice</span><span class="table">
+<span class="table-cell icon-fix">
+<span class="icon-cat-5004"></span>
+</span>
+<span class="table-cell text-fix">Mašine i alati</span>
+</span><span class="table-cell icon-fix">
+<span class="icon-cat-5004"></span>
+</span><span class="icon-cat-5004"></span><span class="table-cell text-fix">Mašine i alati</span><span class="icon-cat-4200"></span><span class="icon-cat-26" style="font-size: 1.4em;"></span><span class="icon-cat-29"></span><span class="icon-cat-truck"></span><span class="icon-cat-5000"></span><span class="icon-cat-33"></span><span class="icon-cat-3383" style="font-size: 1.4em;"></span><span class="icon-cat-237"></span>

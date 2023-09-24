@@ -1,0 +1,28 @@
+Traceback (most recent call last):
+  File "C:\Users\boogyman\Documents\abs\Cetvrti deo\1exeption.py", line 15, in <module>
+    raise Exception("Ovo je poruka")
+Exception: Ovo je poruka
+Traceback (most recent call last):
+  File "C:\Users\boogyman\Documents\abs\Cetvrti deo\1exeption.py", line 21, in <module>
+    raise Exception("Ovo je poruka")
+Exception: Ovo je poruka
+Traceback (most recent call last):
+  File "C:\Users\boogyman\Documents\abs\Cetvrti deo\1exeption.py", line 21, in <module>
+    raise Exception("Ovo je poruka")
+Exception: Ovo je poruka
+Traceback (most recent call last):
+  File "C:\Users\boogyman\Documents\abs\Cetvrti deo\1exeption.py", line 21, in <module>
+    raise Exception("Ovo je poruka")
+Exception: Ovo je poruka
+Traceback (most recent call last):
+  File "C:\Users\boogyman\Documents\abs\Cetvrti deo\1exeption.py", line 21, in <module>
+    raise Exception("Ovo je poruka")
+Exception: Ovo je poruka
+Traceback (most recent call last):
+  File "C:\Users\boogyman\Documents\abs\Cetvrti deo\1exeption.py", line 21, in <module>
+    raise Exception("Ovo je poruka")
+Exception: Ovo je poruka
+Traceback (most recent call last):
+  File "C:\Users\boogyman\Documents\abs\Cetvrti deo\1exeption.py", line 21, in <module>
+    raise Exception("Ovo je poruka")
+Exception: Ovo je poruka
